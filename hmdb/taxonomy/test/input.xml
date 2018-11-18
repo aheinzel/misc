@@ -1,0 +1,3418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hmdb xmlns="http://www.hmdb.ca">
+<metabolite>
+  <version>4.0</version>
+  <creation_date>2005-11-16 15:48:42 UTC</creation_date>
+  <update_date>2018-05-20 02:42:03 UTC</update_date>
+  <accession>HMDB0000068</accession>
+  <status>quantified</status>
+  <secondary_accessions>
+    <accession>HMDB0000615</accession>
+    <accession>HMDB00068</accession>
+    <accession>HMDB00615</accession>
+  </secondary_accessions>
+  <name>Epinephrine</name>
+  <cs_description>Epinephrine, also known as adrenaline or epipen, belongs to the class of organic compounds known as catechols. Catechols are compounds containing a 1,2-benzenediol moiety. Epinephrine is a drug which is used to treat anaphylaxis and sepsis. also one of the body's main adrenergic neurotransmitters. Epinephrine exists as a solid, soluble (in water), and a very weakly acidic compound (based on its pKa). Epinephrine has been found throughout most human tissues, and has also been detected in multiple biofluids, such as urine, blood, and cerebrospinal fluid. Within the cell, epinephrine is primarily located in the cytoplasm and myelin sheath. Epinephrine participates in a number of enzymatic reactions. In particular, S-Adenosylhomocysteine and epinephrine can be biosynthesized from S-adenosylmethionine and norepinephrine; which is catalyzed by the enzyme phenylethanolamine N-methyltransferase. Furthermore, Epinephrine can be converted into 3,4-dihydroxymandelaldehyde and methylamine; which is mediated by the enzyme amine oxidase [flavin-containing] a. Finally, S-Adenosylhomocysteine and epinephrine can be biosynthesized from S-adenosylmethionine and norepinephrine; which is mediated by the enzyme phenylethanolamine N-methyltransferase. In humans, epinephrine is involved in the disulfiram action pathway, the epinephrine action pathway, the tyrosine metabolism pathway, and catecholamine biosynthesis pathway. Epinephrine is also involved in several metabolic disorders, some of which include the alkaptonuria pathway, tyrosinemia, transient, OF the newborn pathway, the tyrosinemia type I pathway, and aromatic L-aminoacid decarboxylase deficiency.</cs_description>
+  <description>Epinephrine is a catecholamine, a sympathomimetic monoamine derived from the amino acids phenylalanine and tyrosine. It is the active sympathomimetic hormone secreted from the adrenal medulla in most species. It stimulates both the alpha- and beta- adrenergic systems, causes systemic vasoconstriction and gastrointestinal relaxation, stimulates the heart, and dilates bronchi and cerebral vessels. It is used in asthma and cardiac failure and to delay absorption of local anesthetics. Epinephrine also constricts arterioles in the skin and gut while dilating arterioles in leg muscles. It elevates the blood sugar level by increasing hydrolysis of glycogen to glucose in the liver, and at the same time begins the breakdown of lipids in adipocytes. Epinephrine has a suppressive effect on the immune system.</description>
+  <synonyms>
+    <synonym>(-)-(R)-Epinephrine</synonym>
+    <synonym>(-)-3,4-Dihydroxy-alpha-((methylamino)methyl)benzyl alcohol</synonym>
+    <synonym>(-)-Adrenaline</synonym>
+    <synonym>(R)-(-)-Adrenaline</synonym>
+    <synonym>(R)-(-)-Adnephrine</synonym>
+    <synonym>(R)-(-)-Epinephrine</synonym>
+    <synonym>(R)-(-)-Epirenamine</synonym>
+    <synonym>4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol</synonym>
+    <synonym>Adrenalin</synonym>
+    <synonym>Adrenaline</synonym>
+    <synonym>Epinefrina</synonym>
+    <synonym>Epinephrin</synonym>
+    <synonym>Epinephrinum</synonym>
+    <synonym>Epipen</synonym>
+    <synonym>Epipen JR</synonym>
+    <synonym>L-Adrenaline</synonym>
+    <synonym>Levoepinephrine</synonym>
+    <synonym>Primatene</synonym>
+    <synonym>(-)-3,4-Dihydroxy-a-((methylamino)methyl)benzyl alcohol</synonym>
+    <synonym>(-)-3,4-Dihydroxy-α-((methylamino)methyl)benzyl alcohol</synonym>
+    <synonym>(-)-3,4-Dihydroxy-a-[(methylamino)methyl]-benzyl alcohol</synonym>
+    <synonym>(-)-3,4-Dihydroxy-a-[2-(methylamino)ethyl]benzyl alcohol</synonym>
+    <synonym>(-)-3,4-Dihydroxy-alpha-[(methylamino)methyl]-benzyl alcohol</synonym>
+    <synonym>(-)-3,4-Dihydroxy-alpha-[2-(methylamino)ethyl]benzyl alcohol</synonym>
+    <synonym>(-)-Epinephrine</synonym>
+    <synonym>(R)-4-[1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol</synonym>
+    <synonym>(R)-Adrenaline</synonym>
+    <synonym>(R)-Epinephrine</synonym>
+    <synonym>Adnephrine</synonym>
+    <synonym>Adrenal</synonym>
+    <synonym>Adrenine</synonym>
+    <synonym>Adrin</synonym>
+    <synonym>Ana-kit</synonym>
+    <synonym>Bosmin</synonym>
+    <synonym>Bronkaid mist</synonym>
+    <synonym>Chelafrin</synonym>
+    <synonym>Epifrin</synonym>
+    <synonym>Epiglaufrin</synonym>
+    <synonym>Epinephran</synonym>
+    <synonym>Epirenan</synonym>
+    <synonym>Eppy</synonym>
+    <synonym>Exadrin</synonym>
+    <synonym>Glauposine</synonym>
+    <synonym>Hemisine</synonym>
+    <synonym>Hemostasin</synonym>
+    <synonym>Hemostatin</synonym>
+    <synonym>Hypernephrin</synonym>
+    <synonym>Isoptoepinal</synonym>
+    <synonym>L-1-(3,4-Dihydroxyphenyl)-2-methylaminoethanol</synonym>
+    <synonym>L-Epinephrine</synonym>
+    <synonym>L-Epirenamine</synonym>
+    <synonym>L-Methylaminoethanolcatechol</synonym>
+    <synonym>Levorenen</synonym>
+    <synonym>Levorenin</synonym>
+    <synonym>Levorenine</synonym>
+    <synonym>Levoreninum</synonym>
+    <synonym>Lyodrin</synonym>
+    <synonym>Methylarterenol</synonym>
+    <synonym>Mucidrina</synonym>
+    <synonym>Nephridine</synonym>
+    <synonym>Nieraline</synonym>
+    <synonym>Paranephrin</synonym>
+    <synonym>Primatene mist</synonym>
+    <synonym>R-(-)-Epinephrine</synonym>
+    <synonym>Renaglandin</synonym>
+    <synonym>Renaleptine</synonym>
+    <synonym>Renalina</synonym>
+    <synonym>Renoform</synonym>
+    <synonym>Renostypticin</synonym>
+    <synonym>Renostyptin</synonym>
+    <synonym>Scurenaline</synonym>
+    <synonym>Simplene</synonym>
+    <synonym>Styptirenal</synonym>
+    <synonym>Supracapsulin</synonym>
+    <synonym>Supranephrane</synonym>
+    <synonym>Suprarenaline</synonym>
+    <synonym>Suprarenin</synonym>
+    <synonym>Surrenine</synonym>
+    <synonym>Sus-phrine</synonym>
+    <synonym>Takamina</synonym>
+    <synonym>Vasoconstrictine</synonym>
+    <synonym>Vasotonin</synonym>
+    <synonym>4-(1-Hydroxy-2-(methylamino)ethyl)-1,2-benzenediol</synonym>
+    <synonym>Epinephrine bitartrate</synonym>
+    <synonym>Epinephrine hydrogen tartrate</synonym>
+    <synonym>Lyophrin</synonym>
+    <synonym>Adrenaline bitartrate</synonym>
+    <synonym>Adrenaline hydrochloride</synonym>
+    <synonym>Epinephrine acetate</synonym>
+    <synonym>Allergan brand OF adrenaline hydrochloride</synonym>
+    <synonym>Epitrate</synonym>
+    <synonym>Acetate, epinephrine</synonym>
+    <synonym>Adrenaline acid tartrate</synonym>
+    <synonym>Epinephrine hydrochloride</synonym>
+    <synonym>Medihaler-epi</synonym>
+  </synonyms>
+  <chemical_formula>C9H13NO3</chemical_formula>
+  <average_molecular_weight>183.2044</average_molecular_weight>
+  <monisotopic_molecular_weight>183.089543287</monisotopic_molecular_weight>
+  <iupac_name>4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol</iupac_name>
+  <traditional_iupac>epinephrine</traditional_iupac>
+  <cas_registry_number>51-43-4</cas_registry_number>
+  <smiles>CNC[C@H](O)C1=CC(O)=C(O)C=C1</smiles>
+  <inchi>InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3/t9-/m0/s1</inchi>
+  <inchikey>UCTWMZQNUQWSLP-VIFPVBQESA-N</inchikey>
+  <taxonomy>
+    <description>This compound belongs to the class of organic compounds known as catechols. These are compounds containing a 1,2-benzenediol moiety.</description>
+    <direct_parent>Catechols</direct_parent>
+    <kingdom>Organic compounds</kingdom>
+    <super_class>Benzenoids</super_class>
+    <class>Phenols</class>
+    <sub_class>Benzenediols</sub_class>
+    <molecular_framework>Aromatic homomonocyclic compounds</molecular_framework>
+    <alternative_parents>
+      <alternative_parent>1,2-aminoalcohols</alternative_parent>
+      <alternative_parent>1-hydroxy-2-unsubstituted benzenoids</alternative_parent>
+      <alternative_parent>1-hydroxy-4-unsubstituted benzenoids</alternative_parent>
+      <alternative_parent>Aralkylamines</alternative_parent>
+      <alternative_parent>Aromatic alcohols</alternative_parent>
+      <alternative_parent>Benzene and substituted derivatives</alternative_parent>
+      <alternative_parent>Dialkylamines</alternative_parent>
+      <alternative_parent>Hydrocarbon derivatives</alternative_parent>
+      <alternative_parent>Organopnictogen compounds</alternative_parent>
+      <alternative_parent>Secondary alcohols</alternative_parent>
+    </alternative_parents>
+    <substituents>
+      <substituent>1,2-aminoalcohol</substituent>
+      <substituent>1-hydroxy-2-unsubstituted benzenoid</substituent>
+      <substituent>1-hydroxy-4-unsubstituted benzenoid</substituent>
+      <substituent>Alcohol</substituent>
+      <substituent>Amine</substituent>
+      <substituent>Aralkylamine</substituent>
+      <substituent>Aromatic alcohol</substituent>
+      <substituent>Aromatic homomonocyclic compound</substituent>
+      <substituent>Catechol</substituent>
+      <substituent>Hydrocarbon derivative</substituent>
+      <substituent>Monocyclic benzene moiety</substituent>
+      <substituent>Organic nitrogen compound</substituent>
+      <substituent>Organic oxygen compound</substituent>
+      <substituent>Organonitrogen compound</substituent>
+      <substituent>Organooxygen compound</substituent>
+      <substituent>Organopnictogen compound</substituent>
+      <substituent>Secondary alcohol</substituent>
+      <substituent>Secondary aliphatic amine</substituent>
+      <substituent>Secondary amine</substituent>
+    </substituents>
+    <external_descriptors>
+      <external_descriptor>Adrenalines</external_descriptor>
+      <external_descriptor>Biogenic amines</external_descriptor>
+      <external_descriptor>adrenaline</external_descriptor>
+    </external_descriptors>
+  </taxonomy>
+  <ontology>
+    <root>
+      <term>Physiological effect</term>
+      <definition>The effect on an organism physiology, resulting from its exposure to a chemical.</definition>
+      <parent_id/>
+      <level>1</level>
+      <type>parent</type>
+      <descendants>
+        <descendant>
+          <term>Health effect</term>
+          <definition>A health condition or observation associated with a stimuli or with a biological activity of a chemical.</definition>
+          <parent_id>7693</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Health condition</term>
+              <definition>A health effect that consists on short or long-term disease, condition, disorder, syndrome or constant abnormality.</definition>
+              <parent_id>7694</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Pheochromocytoma</term>
+                  <definition/>
+                  <parent_id>7695</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Malignant phaeochromocytoma</synonym>
+                    <synonym>Malignant pheochromocytoma</synonym>
+                    <synonym>Phaeochromocytoma</synonym>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Subarachnoid hemorrhage</term>
+                  <definition/>
+                  <parent_id>7695</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Sah</synonym>
+                    <synonym>Subarachnoid haemorrhage</synonym>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Schizophrenia</term>
+                  <definition>A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness. (do).</definition>
+                  <parent_id>7695</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Addison's disease</term>
+                  <definition/>
+                  <parent_id>7695</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Hypocorticism</synonym>
+                    <synonym>Hypocortisolism</synonym>
+                    <synonym>Chronic adrenal insufficiency</synonym>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Traumatic brain injury</term>
+                  <definition/>
+                  <parent_id>7695</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Head injury</synonym>
+                    <synonym>Tbi</synonym>
+                    <synonym>Intracranial injury</synonym>
+                  </synonyms>
+                </descendant>
+              </descendants>
+            </descendant>
+          </descendants>
+        </descendant>
+      </descendants>
+    </root>
+    <root>
+      <term>Disposition</term>
+      <definition>A concept that describes the origin of a chemical, its location within an organism, or its route of exposure.</definition>
+      <parent_id/>
+      <level>1</level>
+      <type>parent</type>
+      <descendants>
+        <descendant>
+          <term>Source</term>
+          <definition>Natural or synthetic origin of a chemical.</definition>
+          <parent_id>7724</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Endogenous</term>
+              <definition/>
+              <parent_id>7735</parent_id>
+              <level>3</level>
+              <type>child</type>
+              <synonyms>
+              </synonyms>
+            </descendant>
+          </descendants>
+        </descendant>
+        <descendant>
+          <term>Biological location</term>
+          <definition>The physiological origin within an organism, including anatomical compnents, biofluids and excreta.</definition>
+          <parent_id>7724</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Tissue and substructures</term>
+              <definition>An anatomical organizational level including multiple cells yet not comprising a complete organ .</definition>
+              <parent_id>7725</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Epidermis</term>
+                  <definition>The epithelial portion of the skin (cutis). it consists of the following layers: stratum corneum (horny layer), stratum granulosum (granular layer), stratum spinosum (prickle cell layer), and stratum basale (basal cell layer). (nci).</definition>
+                  <parent_id>7729</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Adipose tissue</term>
+                  <definition>A specialized form of connective tissue consisting primarily of adipocytes (fat cells), surrounded by a meshwork of collagen fibers. (NCI)</definition>
+                  <parent_id>7729</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Fat tissue</synonym>
+                    <synonym>Body fat</synonym>
+                    <synonym>Adipose</synonym>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Placenta</term>
+                  <definition>An organ present in some vertebrates during embryonic gestation that surrounds the fetus and provides it with nutrients and oxygen, facilitates gas and waste exchange between the fetus and mother, and provides parasitic cloaking from the mother's immune system by excretion of neurokinin b. (nci).</definition>
+                  <parent_id>7729</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Nervous tissue</term>
+                  <definition>The tissue that generates and conducts electrical signals in the body. it contains the neurons. (nci).</definition>
+                  <parent_id>7729</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Neural tissue</synonym>
+                    <synonym>Nerve tissue</synonym>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Muscle</term>
+                  <definition>A fibrous soft tissue with the ability to contract to produce force and motion. (nci).</definition>
+                  <parent_id>7729</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+              </descendants>
+            </descendant>
+            <descendant>
+              <term>Organ and components</term>
+              <definition>An anatomical organizational level including multiple tissues or substructures, which enables a common biological function.</definition>
+              <parent_id>7725</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Gonad</term>
+                  <definition>A reproductive system organ that produces and releases either sperm (testis) or eggs (ovary). (nci).</definition>
+                  <parent_id>7727</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Intestine</term>
+                  <definition>The portion of the gastrointestinal tract that includes the small and large intestines.</definition>
+                  <parent_id>7727</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Bladder</term>
+                  <definition>The distensible sac-like organ that functions as a reservoir of urine, collecting from the kidneys and eliminating via the urethra. (nci).</definition>
+                  <parent_id>7727</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Pancreas</term>
+                  <definition>A digestive organ in the abdomen that has both endocrine and exocrine functions. (nci).</definition>
+                  <parent_id>7727</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Kidney</term>
+                  <definition>The organs of the urinary tract located in the retroperitoneal cavity adjacent to the spine and composed of the renal cortex and the renal medulla. (nci).</definition>
+                  <parent_id>7727</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Kidneys</synonym>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Liver</term>
+                  <definition>An abdominal organ that has variable lobation which are composed mainly of hepatic lobules. (nci).</definition>
+                  <parent_id>7727</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Endocrine gland</term>
+                  <definition/>
+                  <parent_id>7727</parent_id>
+                  <level>4</level>
+                  <type>parent</type>
+                  <synonyms>
+                  </synonyms>
+                  <descendants>
+                    <descendant>
+                      <term>Adrenal cortex</term>
+                      <definition>The outer region of the adrenal gland consisting of the zona glomerulosa, the zona fasciculata, and the zona reticularis. The adrenal cortex produces and secretes mineralocorticoids, glucocorticoids, and adrenal androgens. (NCI).</definition>
+                      <parent_id>7728</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                      </synonyms>
+                    </descendant>
+                    <descendant>
+                      <term>Adrenal gland</term>
+                      <definition>The endocrine glands adjacent to the kidneys that consist of the outer adrenal cortex and the inner adrenal medulla in mammals (nci).</definition>
+                      <parent_id>7728</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                      </synonyms>
+                    </descendant>
+                  </descendants>
+                </descendant>
+              </descendants>
+            </descendant>
+            <descendant>
+              <term>Biofluid and excreta</term>
+              <definition>A liquid, semi-solid or solid material originating in the body.</definition>
+              <parent_id>7725</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Urine</term>
+                  <definition>Excretion in liquid state processed by the kidney.</definition>
+                  <parent_id>7731</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Blood</term>
+                  <definition>A liquid tissue with the primary function of transporting oxygen and carbon dioxide (nci). it supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection.</definition>
+                  <parent_id>7731</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Cerebrospinal fluid</term>
+                  <definition>The fluid that is contained within the brain ventricles, the subarachnoid space and the central canal of the spinal cord. (nci).</definition>
+                  <parent_id>7731</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Csf</synonym>
+                  </synonyms>
+                </descendant>
+              </descendants>
+            </descendant>
+            <descendant>
+              <term>Subcellular</term>
+              <definition>An anatomical organizational level including a component within a biological cell .</definition>
+              <parent_id>7725</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Cytoplasm</term>
+                  <definition>The portion of the cell contained within the plasma membrane but excluding the nucleus.</definition>
+                  <parent_id>7730</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Cytoplasma</synonym>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Myelin sheath</term>
+                  <definition>A layer of phospholipids and protein found on neuronal axons. this structure acts as an electrical insulator that allows nerve impulses to travel faster by increasing the resistance and decreasing the capacitance over that found in unmyelinated nerve fibers. (nci).</definition>
+                  <parent_id>7730</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Myelin</synonym>
+                  </synonyms>
+                </descendant>
+              </descendants>
+            </descendant>
+            <descendant>
+              <term>Cell and elements</term>
+              <definition>An anatomical organizational level comprising of a single cell (or a fragment in some exceptions). a cell is defined by its type or function. it is the smallest unit of living structure capable of independent existence, composed of a membrane-enclosed mass of protoplasm and containing a nucleus or nucleoid.</definition>
+              <parent_id>7725</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Extracellular</term>
+                  <definition>The space external to the outermost structure of a cell.</definition>
+                  <parent_id>7732</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Extracellular region</synonym>
+                  </synonyms>
+                </descendant>
+                <descendant>
+                  <term>Element</term>
+                  <definition/>
+                  <parent_id>7732</parent_id>
+                  <level>4</level>
+                  <type>parent</type>
+                  <synonyms>
+                  </synonyms>
+                  <descendants>
+                    <descendant>
+                      <term>Platelet</term>
+                      <definition>A fragment of a large bone marrow cell (megakaryocyte) which is present in the blood but is not a blood cell. It is an irregular, disc-shaped element in the blood that assists in blood clotting.</definition>
+                      <parent_id>7733</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                        <synonym>Thrombocyte</synonym>
+                      </synonyms>
+                    </descendant>
+                  </descendants>
+                </descendant>
+                <descendant>
+                  <term>Cell</term>
+                  <definition/>
+                  <parent_id>7732</parent_id>
+                  <level>4</level>
+                  <type>parent</type>
+                  <synonyms>
+                  </synonyms>
+                  <descendants>
+                    <descendant>
+                      <term>Fibroblast</term>
+                      <definition>A cell in the connective tissue, that makes and secretes collagen proteins.</definition>
+                      <parent_id>7734</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                      </synonyms>
+                    </descendant>
+                    <descendant>
+                      <term>Nerve cell</term>
+                      <definition>A cell in the nervous system, that is able to conduct weak electric signals between the brain and the body. A typical neuron consists of a cell body, containing the nucleus and the surrounding cytoplasm (perikaryon); several short radiating processes (dendrites); and one long process (the axon), which terminates in twiglike branches (telodendrons) and may have branches (collaterals) projecting along its course. (NCI).</definition>
+                      <parent_id>7734</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                        <synonym>Neuron</synonym>
+                      </synonyms>
+                    </descendant>
+                  </descendants>
+                </descendant>
+              </descendants>
+            </descendant>
+          </descendants>
+        </descendant>
+      </descendants>
+    </root>
+    <root>
+      <term>Process</term>
+      <definition>Biological or chemical events, or a series thereof, leading to a known function or end-product.</definition>
+      <parent_id/>
+      <level>1</level>
+      <type>parent</type>
+      <descendants>
+        <descendant>
+          <term>Naturally occurring process</term>
+          <definition>Naturally-occurring molecular events or a series thereof, leading to a known function or end-product.</definition>
+          <parent_id>7659</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Biological process</term>
+              <definition>Biological or chemical events or a series thereof, leading to a known function or end-product within an organism.</definition>
+              <parent_id>7660</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Biochemical pathway</term>
+                  <definition>A linked series of chemical reactions that occur in a defined order within or between organism cells, and lead to a known function or end product.</definition>
+                  <parent_id>7661</parent_id>
+                  <level>4</level>
+                  <type>parent</type>
+                  <synonyms>
+                  </synonyms>
+                  <descendants>
+                    <descendant>
+                      <term>Catecholamine Biosynthesis</term>
+                      <definition> catecholamines are sympathomimetic hormones that are released by the adrenal glands in response to stress. they are part of the sympathetic nervous system.</definition>
+                      <parent_id>7662</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                      </synonyms>
+                    </descendant>
+                    <descendant>
+                      <term>Disulfiram Action Pathway</term>
+                      <definition> with regards to cocaine addiction, cocaine inhibits dopamine reuptake by blocking dopamine transporter 1 (dat1). this increases dopamine concentrations in the synapse and dopamine binding to its receptors induces euphoria.</definition>
+                      <parent_id>7662</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                      </synonyms>
+                    </descendant>
+                    <descendant>
+                      <term>Epinephrine Action Pathway</term>
+                      <definition> it is the active sympathomimetic hormone secreted from the adrenal medulla in most species. it stimulates both the alpha- and beta- adrenergic systems, causes systemic vasoconstriction and gastrointestinal relaxation, stimulates the heart, and dilates bronchi and cerebral vessels.</definition>
+                      <parent_id>7662</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                      </synonyms>
+                    </descendant>
+                    <descendant>
+                      <term>Tyrosine Metabolism</term>
+                      <definition> half of the phenylalanine required goes into the production of tyrosine; if the diet is rich in tyrosine itself, the requirements for phenylalanine are reduced by about 50%. phenylalanine hydroxylase is a mixed-function oxygenase: one atom of oxygen is incorporated into water and the other into the hydroxyl of tyrosine.</definition>
+                      <parent_id>7662</parent_id>
+                      <level>5</level>
+                      <type>child</type>
+                      <synonyms>
+                      </synonyms>
+                    </descendant>
+                  </descendants>
+                </descendant>
+              </descendants>
+            </descendant>
+          </descendants>
+        </descendant>
+      </descendants>
+    </root>
+    <root>
+      <term>Role</term>
+      <definition>The purpose or function assumed by a chemical, either naturally or as intended by humans .</definition>
+      <parent_id/>
+      <level>1</level>
+      <type>parent</type>
+      <descendants>
+        <descendant>
+          <term>Industrial application</term>
+          <definition>The assumed function of a chemical utilized by human.</definition>
+          <parent_id>7671</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Pharmaceutical industry</term>
+              <definition>A pharmacologic activity for which a chemical substance is utilized owing to its biological role.</definition>
+              <parent_id>7678</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Pharmaceutical</term>
+                  <definition/>
+                  <parent_id>7679</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+              </descendants>
+            </descendant>
+          </descendants>
+        </descendant>
+      </descendants>
+    </root>
+  </ontology>
+  <state>Solid</state>
+  <experimental_properties>
+    <property>
+      <kind>water_solubility</kind>
+      <value>0.18 mg/mL</value>
+      <source/>
+    </property>
+    <property>
+      <kind>logp</kind>
+      <value>-1.37</value>
+      <source>HANSCH,C &amp; LEO,AJ (1985)</source>
+    </property>
+    <property>
+      <kind>melting_point</kind>
+      <value>211.5 °C</value>
+      <source/>
+    </property>
+  </experimental_properties>
+  <predicted_properties>
+    <property>
+      <kind>logp</kind>
+      <value>-0.82</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logs</kind>
+      <value>-0.99</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>solubility</kind>
+      <value>18.6 g/L</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logp</kind>
+      <value>-0.43</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_acidic</kind>
+      <value>9.69</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_basic</kind>
+      <value>8.91</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>iupac</kind>
+      <value>4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>average_mass</kind>
+      <value>183.2044</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mono_mass</kind>
+      <value>183.089543287</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>smiles</kind>
+      <value>CNC[C@H](O)C1=CC(O)=C(O)C=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formula</kind>
+      <value>C9H13NO3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchi</kind>
+      <value>InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3/t9-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchikey</kind>
+      <value>UCTWMZQNUQWSLP-VIFPVBQESA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polar_surface_area</kind>
+      <value>72.72</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>refractivity</kind>
+      <value>49.23</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polarizability</kind>
+      <value>19.04</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rotatable_bond_count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>acceptor_count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>donor_count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>physiological_charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formal_charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>number_of_rings</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rule_of_five</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>ghose_filter</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>veber_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mddr_like_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+  </predicted_properties>
+  <spectra>
+    <spectrum>
+      <type>Specdb::CMs</type>
+      <spectrum_id>308</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::CMs</type>
+      <spectrum_id>8108</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::CMs</type>
+      <spectrum_id>30537</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::CMs</type>
+      <spectrum_id>37278</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::NmrOneD</type>
+      <spectrum_id>1066</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>108</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>109</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>110</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2739</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2740</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2741</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2742</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2743</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2744</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2745</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2746</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2747</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2748</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2749</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2750</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2751</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2752</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>2753</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>257829</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>257830</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>257831</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>277767</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>277768</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>277769</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>436640</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::NmrTwoD</type>
+      <spectrum_id>1124</spectrum_id>
+    </spectrum>
+  </spectra>
+  <cellular_locations>
+    <cellular>Cytoplasm</cellular>
+    <cellular>Extracellular</cellular>
+  </cellular_locations>
+  <biospecimen_locations>
+    <biospecimen>Blood</biospecimen>
+    <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+    <biospecimen>Urine</biospecimen>
+  </biospecimen_locations>
+  <tissue_locations>
+    <tissue>Adipose Tissue</tissue>
+    <tissue>Adrenal Cortex</tissue>
+    <tissue>Adrenal Gland</tissue>
+    <tissue>Adrenal Medulla</tissue>
+    <tissue>Bladder</tissue>
+    <tissue>Epidermis</tissue>
+    <tissue>Eye Lens</tissue>
+    <tissue>Fibroblasts</tissue>
+    <tissue>Gonads</tissue>
+    <tissue>Gut</tissue>
+    <tissue>Intestine</tissue>
+    <tissue>Kidney</tissue>
+    <tissue>Liver</tissue>
+    <tissue>Muscle</tissue>
+    <tissue>Myelin</tissue>
+    <tissue>Nerve Cells</tissue>
+    <tissue>Nervous Tissues</tissue>
+    <tissue>Neuron</tissue>
+    <tissue>Pancreas</tissue>
+    <tissue>Placenta</tissue>
+    <tissue>Platelet</tissue>
+  </tissue_locations>
+  <pathways>
+    <pathway>
+      <name>Alkaptonuria</name>
+      <smpdb_id>SMP00169</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Aromatic L-Aminoacid Decarboxylase Deficiency</name>
+      <smpdb_id>SMP00170</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Catecholamine Biosynthesis</name>
+      <smpdb_id>SMP00012</smpdb_id>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Disulfiram Action Pathway</name>
+      <smpdb_id>SMP00429</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Dopamine beta-hydroxylase deficiency</name>
+      <smpdb_id>SMP00498</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Epinephrine Action Pathway</name>
+      <smpdb_id>SMP00661</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Hawkinsinuria</name>
+      <smpdb_id>SMP00190</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Monoamine oxidase-a deficiency (MAO-A)</name>
+      <smpdb_id>SMP00533</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Tyrosine hydroxylase deficiency</name>
+      <smpdb_id>SMP00497</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Tyrosine Metabolism</name>
+      <smpdb_id>SMP00006</smpdb_id>
+      <kegg_map_id>map00350</kegg_map_id>
+    </pathway>
+    <pathway>
+      <name>Tyrosinemia Type I</name>
+      <smpdb_id>SMP00218</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+    <pathway>
+      <name>Tyrosinemia, transient, of the newborn</name>
+      <smpdb_id>SMP00494</smpdb_id>
+      <kegg_map_id/>
+    </pathway>
+  </pathways>
+  <normal_concentrations>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.00164 +/- 0.00012</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Lambert G, Naredi S, Eden E, Rydenhag B, Friberg P: Monoamine metabolism and sympathetic nervous activation following subarachnoid haemorrhage: influence of gender and hydrocephalus. Brain Res Bull. 2002 May;58(1):77-82.</reference_text>
+          <pubmed_id>12121816</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.00029 +/- 0.000021</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Female</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Bornstein SR, Breidert M, Ehrhart-Bornstein M, Kloos B, Scherbaum WA: Plasma catecholamines in patients with Addison's disease. Clin Endocrinol (Oxf). 1995 Feb;42(2):215-8.</reference_text>
+          <pubmed_id>7704967</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.00072 (0.00049-0.0013)</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Male</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Geigy Scientific Tables, 8th Rev edition, pp. 165-177. Edited by C. Lentner, West Cadwell, N.J.: Medical education Div., Ciba-Geigy Corp., Basel, Switzerland c1981-1992.</reference_text>
+          <pubmed_id/>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.0003 +/- 0.00003</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Male</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Bornstein SR, Breidert M, Ehrhart-Bornstein M, Kloos B, Scherbaum WA: Plasma catecholamines in patients with Addison's disease. Clin Endocrinol (Oxf). 1995 Feb;42(2):215-8.</reference_text>
+          <pubmed_id>7704967</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.0 (0.0-0.00022)</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Dalsgaard MK, Ott P, Dela F, Juul A, Pedersen BK, Warberg J, Fahrenkrug J, Secher NH: The CSF and arterial to internal jugular venous hormonal differences during exercise in humans. Exp Physiol. 2004 May;89(3):271-7. Epub 2004 Feb 17.</reference_text>
+          <pubmed_id>15123562</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.000235 +/- 0.00003277</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <subject_age>Not Specified</subject_age>
+      <subject_sex>Not Specified</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Kawano Y, Fukiyama K, Takeya Y, Abe I, Omae T: Catecholamines, angiotensin II and sodium concentrations in cerebrospinal fluid in young men with borderline hypertension. Clin Exp Hypertens A. 1984;6(6):1131-45.</reference_text>
+          <pubmed_id>6744640</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.034 (0.0063-0.062)</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Female</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Engelborghs S, Marescau B, De Deyn PP: Amino acids and biogenic amines in cerebrospinal fluid of patients with Parkinson's disease. Neurochem Res. 2003 Aug;28(8):1145-50.</reference_text>
+          <pubmed_id>12834252</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.00024</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Geigy Scientific Tables, 8th Rev edition, pp. 165-177. Edited by C. Lentner, West Cadwell, N.J.: Medical education Div., Ciba-Geigy Corp., Basel, Switzerland c1981-1992.</reference_text>
+          <pubmed_id/>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value>0.0057 +/- 0.00092</concentration_value>
+      <concentration_units>umol/mmol creatinine</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Peyrin L, Pequignot JM, Lacour JR, Fourcade J: Relationships between catecholamine or 3-methoxy 4-hydroxy phenylglycol changes and the mental performance under submaximal exercise in man. Psychopharmacology (Berl). 1987;93(2):188-92.</reference_text>
+          <pubmed_id>3122251</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value>0.002 +/- 0.00099</concentration_value>
+      <concentration_units>umol/mmol creatinine</concentration_units>
+      <subject_age>Children (1-13 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>De Bellis MD, Baum AS, Birmaher B, Keshavan MS, Eccard CH, Boring AM, Jenkins FJ, Ryan ND: A.E. Bennett Research Award. Developmental traumatology. Part I: Biological stress systems. Biol Psychiatry. 1999 May 15;45(10):1259-70.</reference_text>
+          <pubmed_id>10349032</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value>0.0052 (0.00043-0.0099)</concentration_value>
+      <concentration_units>umol/mmol creatinine</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Panholzer TJ, Beyer J, Lichtwald K: Coupled-column liquid chromatographic analysis of catecholamines, serotonin, and metabolites in human urine. Clin Chem. 1999 Feb;45(2):262-8.</reference_text>
+          <pubmed_id>9931050</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value></concentration_value>
+      <concentration_units></concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Fryar-Williams S, Strobel JE: Biomarkers of a five-domain translational substrate for schizophrenia and schizoaffective psychosis. Biomark Res. 2015 Feb 6;3:3. doi: 10.1186/s40364-015-0028-1. eCollection 2015.</reference_text>
+          <pubmed_id>25729574</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value>0.0021 (0.00098-0.0052)</concentration_value>
+      <concentration_units>umol/mmol creatinine</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Geigy Scientific Tables, 8th Rev edition, pp. 165-177. Edited by Cornelius Lentner.</reference_text>
+          <pubmed_id/>
+        </reference>
+        <reference>
+          <reference_text>West Cadwell, N.J. : Medical education Div., Ciba-Geigy Corp.</reference_text>
+          <pubmed_id/>
+        </reference>
+        <reference>
+          <reference_text>Basel, Switzerland c1981-1992.</reference_text>
+          <pubmed_id/>
+        </reference>
+      </references>
+    </concentration>
+  </normal_concentrations>
+  <abnormal_concentrations>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.00241 +/- 0.00057</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Both</patient_sex>
+      <patient_information>Head trauma</patient_information>
+      <references>
+        <reference>
+          <reference_text>Lambert G, Naredi S, Eden E, Rydenhag B, Friberg P: Monoamine metabolism and sympathetic nervous activation following subarachnoid haemorrhage: influence of gender and hydrocephalus. Brain Res Bull. 2002 May;58(1):77-82.</reference_text>
+          <pubmed_id>12121816</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.000077 +/- 0.000025</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Female</patient_sex>
+      <patient_information>Addison's disease</patient_information>
+      <references>
+        <reference>
+          <reference_text>Bornstein SR, Breidert M, Ehrhart-Bornstein M, Kloos B, Scherbaum WA: Plasma catecholamines in patients with Addison's disease. Clin Endocrinol (Oxf). 1995 Feb;42(2):215-8.</reference_text>
+          <pubmed_id>7704967</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.001 +/- 0.00036</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Both</patient_sex>
+      <patient_information>Subarachnoid haemorrhage </patient_information>
+      <references>
+        <reference>
+          <reference_text>Lambert G, Naredi S, Eden E, Rydenhag B, Friberg P: Monoamine metabolism and sympathetic nervous activation following subarachnoid haemorrhage: influence of gender and hydrocephalus. Brain Res Bull. 2002 May;58(1):77-82.</reference_text>
+          <pubmed_id>12121816</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.00014 +/- 0.000036</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Male</patient_sex>
+      <patient_information>Addison's disease</patient_information>
+      <references>
+        <reference>
+          <reference_text>Bornstein SR, Breidert M, Ehrhart-Bornstein M, Kloos B, Scherbaum WA: Plasma catecholamines in patients with Addison's disease. Clin Endocrinol (Oxf). 1995 Feb;42(2):215-8.</reference_text>
+          <pubmed_id>7704967</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.00029 (0.00005-0.00054)</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Both</patient_sex>
+      <patient_information>Pheochromocytoma</patient_information>
+      <comment>Tumors with low epinephrine concentration (measured in plasma)
+</comment>
+      <references>
+        <reference>
+          <reference_text>Eisenhofer G, Keiser H, Friberg P, Mezey E, Huynh TT, Hiremagalur B, Ellingson T, Duddempudi S, Eijsbouts A, Lenders JW: Plasma metanephrines are markers of pheochromocytoma produced by catechol-O-methyltransferase within tumors. J Clin Endocrinol Metab. 1998 Jun;83(6):2175-85.</reference_text>
+          <pubmed_id>9626157</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Blood</biospecimen>
+      <concentration_value>0.0025 (0.0002-0.0048)</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Both</patient_sex>
+      <patient_information>Pheochromocytoma</patient_information>
+      <comment>Tumors with high epinephrine concentration (measured in plasma)
+</comment>
+      <references>
+        <reference>
+          <reference_text>Eisenhofer G, Keiser H, Friberg P, Mezey E, Huynh TT, Hiremagalur B, Ellingson T, Duddempudi S, Eijsbouts A, Lenders JW: Plasma metanephrines are markers of pheochromocytoma produced by catechol-O-methyltransferase within tumors. J Clin Endocrinol Metab. 1998 Jun;83(6):2175-85.</reference_text>
+          <pubmed_id>9626157</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.000453 +/- 0.00004916</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Not Specified</patient_sex>
+      <patient_information>borderline hypertensives</patient_information>
+      <references>
+        <reference>
+          <reference_text>Kawano Y, Fukiyama K, Takeya Y, Abe I, Omae T: Catecholamines, angiotensin II and sodium concentrations in cerebrospinal fluid in young men with borderline hypertension. Clin Exp Hypertens A. 1984;6(6):1131-45.</reference_text>
+          <pubmed_id>6744640</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.000147 +/- 0.000109</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Not Specified</patient_sex>
+      <patient_information>Cerebral infarction, headache, paresthesia and ununconfirmed suspicion of leucemic infaction or brain metastasis with normal CSF value</patient_information>
+      <references>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.000109</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Not Specified</patient_sex>
+      <patient_information>Cerebral infarction, headache, paresthesia and ununconfirmed suspicion of leucemic infaction or brain metastasis with normal CSF value but renal insufficiency</patient_information>
+      <references>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.000251</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Not Specified</patient_sex>
+      <patient_information>Haemorrhagic infarction</patient_information>
+      <references>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.000300</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Not Specified</patient_sex>
+      <patient_information>Bacterial meningitis</patient_information>
+      <references>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.000481</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Not Specified</patient_sex>
+      <patient_information>Leucemic meningiosa</patient_information>
+      <references>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Cerebrospinal Fluid (CSF)</biospecimen>
+      <concentration_value>0.000153</concentration_value>
+      <concentration_units>uM</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Not Specified</patient_sex>
+      <patient_information>Encephalitis</patient_information>
+      <references>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value>0.011 +/- 0.0022</concentration_value>
+      <concentration_units>umol/mmol creatinine</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Both</patient_sex>
+      <patient_information>Exercise</patient_information>
+      <references>
+        <reference>
+          <reference_text>Peyrin L, Pequignot JM, Lacour JR, Fourcade J: Relationships between catecholamine or 3-methoxy 4-hydroxy phenylglycol changes and the mental performance under submaximal exercise in man. Psychopharmacology (Berl). 1987;93(2):188-92.</reference_text>
+          <pubmed_id>3122251</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value></concentration_value>
+      <concentration_units></concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Both</patient_sex>
+      <patient_information>Schizophrenia</patient_information>
+      <references>
+        <reference>
+          <reference_text>Fryar-Williams S, Strobel JE: Biomarkers of a five-domain translational substrate for schizophrenia and schizoaffective psychosis. Biomark Res. 2015 Feb 6;3:3. doi: 10.1186/s40364-015-0028-1. eCollection 2015.</reference_text>
+          <pubmed_id>25729574</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+  </abnormal_concentrations>
+  <diseases>
+    <disease>
+      <name>Addison's Disease</name>
+      <omim_id>240200</omim_id>
+      <references>
+        <reference>
+          <reference_text>Bornstein SR, Breidert M, Ehrhart-Bornstein M, Kloos B, Scherbaum WA: Plasma catecholamines in patients with Addison's disease. Clin Endocrinol (Oxf). 1995 Feb;42(2):215-8.</reference_text>
+          <pubmed_id>7704967</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>MetaGene: Metabolic &amp; Genetic Information Center (MIC: http://www.metagene.de)</reference_text>
+          <pubmed_id/>
+        </reference>
+      </references>
+    </disease>
+    <disease>
+      <name>Subarachnoid hemorrhage</name>
+      <omim_id>105800</omim_id>
+      <references>
+        <reference>
+          <reference_text>Leoni V, Masterman T, Mousavi FS, Wretlind B, Wahlund LO, Diczfalusy U, Hillert J, Bjorkhem I: Diagnostic use of cerebral and extracerebral oxysterols. Clin Chem Lab Med. 2004 Feb;42(2):186-91.</reference_text>
+          <pubmed_id>15061359</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Gaetani P, Rodriguez y Baena R, Vigano T, Crivellari MT: [Prostaglandin D2 in subarachnoid hemorrhage. Biological and diagnostic implications]. Riv Patol Nerv Ment. 1983 Jul-Aug;104(4):171-7.</reference_text>
+          <pubmed_id>6598516</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Czarnecka J, Cieslak M, Michal K: Application of solid phase extraction and high-performance liquid chromatography to qualitative and quantitative analysis of nucleotides and nucleosides in human cerebrospinal fluid. J Chromatogr B Analyt Technol Biomed Life Sci. 2005 Aug 5;822(1-2):85-90.</reference_text>
+          <pubmed_id>15993662</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Lambert G, Naredi S, Eden E, Rydenhag B, Friberg P: Monoamine metabolism and sympathetic nervous activation following subarachnoid haemorrhage: influence of gender and hydrocephalus. Brain Res Bull. 2002 May;58(1):77-82.</reference_text>
+          <pubmed_id>12121816</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Durmaz R, Ozkara E, Kanbak G, Arslan OC, Dokumacioglu A, Kartkaya K, Atasoy MA: Nitric oxide level and adenosine deaminase activity in cerebrospinal fluid of patients with subarachnoid hemorrhage. Turk Neurosurg. 2008 Apr;18(2):157-64.</reference_text>
+          <pubmed_id>18597230</pubmed_id>
+        </reference>
+      </references>
+    </disease>
+    <disease>
+      <name>Bacterial meningitis</name>
+      <omim_id/>
+      <references>
+        <reference>
+          <reference_text>Peng F, Zhang B, Zhong X, Li J, Xu G, Hu X, Qiu W, Pei Z: Serum uric acid levels of patients with multiple sclerosis and other neurological diseases. Mult Scler. 2008 Mar;14(2):188-96. Epub 2007 Oct 17.</reference_text>
+          <pubmed_id>17942520</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </disease>
+    <disease>
+      <name>Encephalitis</name>
+      <omim_id/>
+      <references>
+        <reference>
+          <reference_text>Kalita J, Kumar S, Vijaykumar K, Palit G, Misra UK: A study of CSF catecholamine and its metabolites in acute and convalescent period of encephalitis. J Neurol Sci. 2007 Jan 15;252(1):62-6. Epub 2006 Nov 28.</reference_text>
+          <pubmed_id>17134724</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </disease>
+    <disease>
+      <name>Schizophrenia</name>
+      <omim_id>181500</omim_id>
+      <references>
+        <reference>
+          <reference_text>Harnryd C, Bjerkenstedt L, Grimm VE, Sedvall G: Reduction of MOPEG levels in cerebrospinal fluid of psychotic women after electroconvulsive treatment. Psychopharmacology (Berl). 1979 Aug 8;64(2):131-4.</reference_text>
+          <pubmed_id>115032</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Prell GD, Green JP, Kaufmann CA, Khandelwal JK, Morrishow AM, Kirch DG, Linnoila M, Wyatt RJ: Histamine metabolites in cerebrospinal fluid of patients with chronic schizophrenia: their relationships to levels of other aminergic transmitters and ratings of symptoms. Schizophr Res. 1995 Jan;14(2):93-104.</reference_text>
+          <pubmed_id>7711000</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Alfredsson G, Wiesel FA: Monoamine metabolites and amino acids in serum from schizophrenic patients before and during sulpiride treatment. Psychopharmacology (Berl). 1989;99(3):322-7.</reference_text>
+          <pubmed_id>2480613</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Do KQ, Lauer CJ, Schreiber W, Zollinger M, Gutteck-Amsler U, Cuenod M, Holsboer F: gamma-Glutamylglutamine and taurine concentrations are decreased in the cerebrospinal fluid of drug-naive patients with schizophrenic disorders. J Neurochem. 1995 Dec;65(6):2652-62.</reference_text>
+          <pubmed_id>7595563</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Kobayashi K, Koide Y, Yoshino K, Shohmori T: [P-hydroxyphenylacetic acid concentrations in cerebrospinal fluid]. No To Shinkei. 1982 Aug;34(8):769-74.</reference_text>
+          <pubmed_id>7126379</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Walker EF, Bonsall R, Walder DJ: Plasma hormones and catecholamine metabolites in monozygotic twins discordant for psychosis. Neuropsychiatry Neuropsychol Behav Neurol. 2002 Mar;15(1):10-7.</reference_text>
+          <pubmed_id>11877547</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Heresco-Levy U, Bar G, Levin R, Ermilov M, Ebstein RP, Javitt DC: High glycine levels are associated with prepulse inhibition deficits in chronic schizophrenia patients. Schizophr Res. 2007 Mar;91(1-3):14-21. Epub 2007 Feb 2.</reference_text>
+          <pubmed_id>17276036</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Hashimoto K, Fukushima T, Shimizu E, Komatsu N, Watanabe H, Shinoda N, Nakazato M, Kumakiri C, Okada S, Hasegawa H, Imai K, Iyo M: Decreased serum levels of D-serine in patients with schizophrenia: evidence in support of the N-methyl-D-aspartate receptor hypofunction hypothesis of schizophrenia. Arch Gen Psychiatry. 2003 Jun;60(6):572-6.</reference_text>
+          <pubmed_id>12796220</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Nikisch G, Baumann P, Wiedemann G, Kiessling B, Weisser H, Hertel A, Yoshitake T, Kehr J, Mathe AA: Quetiapine and norquetiapine in plasma and cerebrospinal fluid of schizophrenic patients treated with quetiapine: correlations to clinical outcome and HVA, 5-HIAA, and MHPG in CSF. J Clin Psychopharmacol. 2010 Oct;30(5):496-503. doi: 10.1097/JCP.0b013e3181f2288e.</reference_text>
+          <pubmed_id>20814316</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Fukushima T, Iizuka H, Yokota A, Suzuki T, Ohno C, Kono Y, Nishikiori M, Seki A, Ichiba H, Watanabe Y, Hongo S, Utsunomiya M, Nakatani M, Sadamoto K, Yoshio T: Quantitative analyses of schizophrenia-associated metabolites in serum: serum D-lactate levels are negatively correlated with gamma-glutamylcysteine in medicated schizophrenia patients. PLoS One. 2014 Jul 8;9(7):e101652. doi: 10.1371/journal.pone.0101652. eCollection 2014.</reference_text>
+          <pubmed_id>25004141</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Koike S, Bundo M, Iwamoto K, Suga M, Kuwabara H, Ohashi Y, Shinoda K, Takano Y, Iwashiro N, Satomura Y, Nagai T, Natsubori T, Tada M, Yamasue H, Kasai K: A snapshot of plasma metabolites in first-episode schizophrenia: a capillary electrophoresis time-of-flight mass spectrometry study. Transl Psychiatry. 2014 Apr 8;4:e379. doi: 10.1038/tp.2014.19.</reference_text>
+          <pubmed_id>24713860</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Ballesteros A, Summerfelt A, Du X, Jiang P, Chiappelli J, Tagamets M, O'Donnell P, Kochunov P, Hong LE: Electrophysiological intermediate biomarkers for oxidative stress in schizophrenia. Clin Neurophysiol. 2013 Nov;124(11):2209-15. doi: 10.1016/j.clinph.2013.05.021. Epub 2013 Jun 30.</reference_text>
+          <pubmed_id>23823132</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Bjerkenstedt L, Edman G, Hagenfeldt L, Sedvall G, Wiesel FA: Plasma amino acids in relation to cerebrospinal fluid monoamine metabolites in schizophrenic patients and healthy controls. Br J Psychiatry. 1985 Sep;147:276-82.</reference_text>
+          <pubmed_id>2415198</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Pickar D, Breier A, Hsiao JK, Doran AR, Wolkowitz OM, Pato CN, Konicki PE, Potter WZ: Cerebrospinal fluid and plasma monoamine metabolites and their relation to psychosis. Implications for regional brain dysfunction in schizophrenia. Arch Gen Psychiatry. 1990 Jul;47(7):641-8.</reference_text>
+          <pubmed_id>1694425</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Kim YK, Myint AM, Verkerk R, Scharpe S, Steinbusch H, Leonard B: Cytokine changes and tryptophan metabolites in medication-naive and medication-free schizophrenic patients. Neuropsychobiology. 2009;59(2):123-9. doi: 10.1159/000213565. Epub 2009 Apr 22.</reference_text>
+          <pubmed_id>19390223</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Yang J, Chen T, Sun L, Zhao Z, Qi X, Zhou K, Cao Y, Wang X, Qiu Y, Su M, Zhao A, Wang P, Yang P, Wu J, Feng G, He L, Jia W, Wan C: Potential metabolite markers of schizophrenia. Mol Psychiatry. 2013 Jan;18(1):67-78. doi: 10.1038/mp.2011.131. Epub 2011 Oct 25.</reference_text>
+          <pubmed_id>22024767</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Xuan J, Pan G, Qiu Y, Yang L, Su M, Liu Y, Chen J, Feng G, Fang Y, Jia W, Xing Q, He L: Metabolomic profiling to identify potential serum biomarkers for schizophrenia and risperidone action. J Proteome Res. 2011 Dec 2;10(12):5433-43. doi: 10.1021/pr2006796. Epub 2011 Nov  8.</reference_text>
+          <pubmed_id>22007635</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Schwarz E, Guest PC, Rahmoune H, Harris LW, Wang L, Leweke FM, Rothermundt M, Bogerts B, Koethe D, Kranaster L, Ohrmann P, Suslow T, McAllister G, Spain M, Barnes A, van Beveren NJ, Baron-Cohen S, Steiner J, Torrey FE, Yolken RH, Bahn S: Identification of a biological signature for schizophrenia in serum. Mol Psychiatry. 2012 May;17(5):494-502. doi: 10.1038/mp.2011.42. Epub 2011 Apr 12.</reference_text>
+          <pubmed_id>21483431</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Mathe AA, Eberhard G, Saaf J, Wetterberg L: Plasma prostaglandin E2 metabolite--measured as 11-deoxy-15-keto-13,14-dihydro-11 beta,16 xi-cyclo-PGE2--in twins with schizophrenic disorder. Biol Psychiatry. 1986 Sep;21(11):1024-30.</reference_text>
+          <pubmed_id>3741918</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Kuloglu M, Ustundag B, Atmaca M, Canatan H, Tezcan AE, Cinkilinc N: Lipid peroxidation and antioxidant enzyme levels in patients with schizophrenia and bipolar disorder. Cell Biochem Funct. 2002 Jun;20(2):171-5.</reference_text>
+          <pubmed_id>11979513</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Zumarraga M, Davila R, Basterreche N, Arrue A, Goienetxea B, Zamalloa MI, Erkoreka L, Bustamante S, Inchausti L, Gonzalez-Torres MA, Guimon J: Catechol O-methyltransferase and monoamine oxidase A genotypes, and plasma catecholamine metabolites in bipolar and schizophrenic patients. Neurochem Int. 2010 May-Jun;56(6-7):774-9. doi: 10.1016/j.neuint.2010.02.015. Epub 2010 Mar 4.</reference_text>
+          <pubmed_id>20206656</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Peters JG: Dopamine, noradrenaline and serotonin spinal fluid metabolites in temporal lobe epileptic patients with schizophrenic symptomatology. Eur Neurol. 1979;18(1):15-8.</reference_text>
+          <pubmed_id>436860</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Yao JK, Dougherty GG Jr, Reddy RD, Keshavan MS, Montrose DM, Matson WR, Rozen S, Krishnan RR, McEvoy J, Kaddurah-Daouk R: Altered interactions of tryptophan metabolites in first-episode neuroleptic-naive patients with schizophrenia. Mol Psychiatry. 2010 Sep;15(9):938-53. doi: 10.1038/mp.2009.33. Epub 2009 Apr 28.</reference_text>
+          <pubmed_id>19401681</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Gattaz WF, Waldmeier P, Beckmann H: CSF monoamine metabolites in schizophrenic patients. Acta Psychiatr Scand. 1982 Nov;66(5):350-60.</reference_text>
+          <pubmed_id>6184954</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Nilsson-Todd LK, Nordin C, Jonsson EG, Skogh E, Erhardt S: Cerebrospinal fluid kynurenic acid in male patients with schizophrenia - correlation with monoamine metabolites. Acta Neuropsychiatr. 2007 Feb;19(1):45-52. doi: 10.1111/j.1601-5215.2006.00170.x.</reference_text>
+          <pubmed_id>26952797</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Cai HL, Li HD, Yan XZ, Sun B, Zhang Q, Yan M, Zhang WY, Jiang P, Zhu RH, Liu YP, Fang PF, Xu P, Yuan HY, Zhang XH, Hu L, Yang W, Ye HS: Metabolomic analysis of biochemical changes in the plasma and urine of first-episode neuroleptic-naive schizophrenia patients after treatment with risperidone. J Proteome Res. 2012 Aug 3;11(8):4338-50. doi: 10.1021/pr300459d. Epub 2012 Jul 26.</reference_text>
+          <pubmed_id>22800120</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Al Awam K, Haussleiter IS, Dudley E, Donev R, Brune M, Juckel G, Thome J: Multiplatform metabolome and proteome profiling identifies serum metabolite and protein signatures as prospective biomarkers for schizophrenia. J Neural Transm (Vienna). 2015 Aug;122 Suppl 1:S111-22. doi: 10.1007/s00702-014-1224-0. Epub 2014 May 1.</reference_text>
+          <pubmed_id>24789758</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Bicikova M, Hill M, Ripova D, Mohr P, Hampl R: Determination of steroid metabolome as a possible tool for laboratory diagnosis of schizophrenia. J Steroid Biochem Mol Biol. 2013 Jan;133:77-83. doi: 10.1016/j.jsbmb.2012.08.009. Epub 2012 Aug 24.</reference_text>
+          <pubmed_id>22944140</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>He Y, Yu Z, Giegling I, Xie L, Hartmann AM, Prehn C, Adamski J, Kahn R, Li Y, Illig T, Wang-Sattler R, Rujescu D: Schizophrenia shows a unique metabolomics signature in plasma. Transl Psychiatry. 2012 Aug 14;2:e149. doi: 10.1038/tp.2012.76.</reference_text>
+          <pubmed_id>22892715</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Kaddurah-Daouk R, McEvoy J, Baillie RA, Lee D, Yao JK, Doraiswamy PM, Krishnan KR: Metabolomic mapping of atypical antipsychotic effects in schizophrenia. Mol Psychiatry. 2007 Oct;12(10):934-45. Epub 2007 Apr 17.</reference_text>
+          <pubmed_id>17440431</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Fryar-Williams S, Strobel JE: Biomarkers of a five-domain translational substrate for schizophrenia and schizoaffective psychosis. Biomark Res. 2015 Feb 6;3:3. doi: 10.1186/s40364-015-0028-1. eCollection 2015.</reference_text>
+          <pubmed_id>25729574</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Oresic M, Seppanen-Laakso T, Sun D, Tang J, Therman S, Viehman R, Mustonen U, van Erp TG, Hyotylainen T, Thompson P, Toga AW, Huttunen MO, Suvisaari J, Kaprio J, Lonnqvist J, Cannon TD: Phospholipids and insulin resistance in psychosis: a lipidomics study of twin pairs discordant for schizophrenia. Genome Med. 2012 Jan 18;4(1):1. doi: 10.1186/gm300.</reference_text>
+          <pubmed_id>22257447</pubmed_id>
+        </reference>
+      </references>
+    </disease>
+    <disease>
+      <name>Head injury</name>
+      <omim_id/>
+      <references>
+        <reference>
+          <reference_text>Lambert G, Naredi S, Eden E, Rydenhag B, Friberg P: Monoamine metabolism and sympathetic nervous activation following subarachnoid haemorrhage: influence of gender and hydrocephalus. Brain Res Bull. 2002 May;58(1):77-82.</reference_text>
+          <pubmed_id>12121816</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Bogusiewicz A, Stratton SL, Ellison DA, Mock DM: Biotin accounts for less than half of all biotin and biotin metabolites in the cerebrospinal fluid of children. Am J Clin Nutr. 2008 Nov;88(5):1291-6.</reference_text>
+          <pubmed_id>18996865</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Sachse KT, Jackson EK, Wisniewski SR, Gillespie DG, Puccio AM, Clark RS, Dixon CE, Kochanek PM: Increases in cerebrospinal fluid caffeine concentration are associated with favorable outcome after severe traumatic brain injury in humans. J Cereb Blood Flow Metab. 2008 Feb;28(2):395-401. Epub 2007 Aug 8.</reference_text>
+          <pubmed_id>17684518</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Bayir H, Kochanek PM, Liu SX, Arroyo A, Osipov A, Jiang J, Wisniewski S, Adelson PD, Graham SH, Kagan VE: Increased S-nitrosothiols and S-nitrosoalbumin in cerebrospinal fluid after severe traumatic brain injury in infants and children: indirect association with intracranial pressure. J Cereb Blood Flow Metab. 2003 Jan;23(1):51-61.</reference_text>
+          <pubmed_id>12500091</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Darwish RS, Amiridze N, Aarabi B: Nitrotyrosine as an oxidative stress marker: evidence for involvement in neurologic outcome in human traumatic brain injury. J Trauma. 2007 Aug;63(2):439-42.</reference_text>
+          <pubmed_id>17693848</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Burke EJ, Mehlhorn U, Allen SJ: Hyaluronan in cerebrospinal fluid after head injury. Acta Neurol (Napoli). 1994 Jun;16(3):103-9.</reference_text>
+          <pubmed_id>7992658</pubmed_id>
+        </reference>
+      </references>
+    </disease>
+    <disease>
+      <name>Pheochromocytoma</name>
+      <omim_id>171300</omim_id>
+      <references>
+        <reference>
+          <reference_text>Eisenhofer G, Keiser H, Friberg P, Mezey E, Huynh TT, Hiremagalur B, Ellingson T, Duddempudi S, Eijsbouts A, Lenders JW: Plasma metanephrines are markers of pheochromocytoma produced by catechol-O-methyltransferase within tumors. J Clin Endocrinol Metab. 1998 Jun;83(6):2175-85.</reference_text>
+          <pubmed_id>9626157</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Foti A, Adachi M, DeQuattro V: The relationships of free to conjugated normetanephrine in plasma and spinal fluid of hypertensive patients. J Clin Endocrinol Metab. 1982 Jul;55(1):81-5.</reference_text>
+          <pubmed_id>7076810</pubmed_id>
+        </reference>
+      </references>
+    </disease>
+    <disease>
+      <name>Cerebral infarction</name>
+      <omim_id></omim_id>
+      <references>
+        <reference>
+          <reference_text>Hayashi K, Kidouchi K, Sumi S, Mizokami M, Orito E, Kumada K, Ueda R, Wada Y: Possible prediction of adverse reactions to pyrimidine chemotherapy from urinary pyrimidine levels and a case of asymptomatic adult dihydropyrimidinuria. Clin Cancer Res. 1996 Dec;2(12):1937-41.</reference_text>
+          <pubmed_id>9816152</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Fagan SC, Castellani D, Gengo FM: Prostanoid concentrations in human CSF following acute ischaemic brain infarction. Clin Exp Pharmacol Physiol. 1986 Aug;13(8):629-32.</reference_text>
+          <pubmed_id>3791712</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Ratge D, Bauersfeld W, Wisser H: The relationship of free and conjugated catecholamines in plasma and cerebrospinal fluid in cerebral and meningeal disease. J Neural Transm. 1985;62(3-4):267-84.</reference_text>
+          <pubmed_id>4031843</pubmed_id>
+        </reference>
+      </references>
+    </disease>
+  </diseases>
+  <drugbank_id/>
+  <drugbank_metabolite_id/>
+  <phenol_explorer_compound_id/>
+  <phenol_explorer_metabolite_id/>
+  <foodb_id>FDB021889</foodb_id>
+  <knapsack_id/>
+  <chemspider_id>5611</chemspider_id>
+  <kegg_id>C00788</kegg_id>
+  <biocyc_id>L-EPINEPHRINE</biocyc_id>
+  <bigg_id>35997</bigg_id>
+  <wikipidia>Epinephrine</wikipidia>
+  <nugowiki>50</nugowiki>
+  <metagene/>
+  <metlin_id>5127</metlin_id>
+  <pubchem_compound_id>5816</pubchem_compound_id>
+  <het_id/>
+  <chebi_id>28918</chebi_id>
+  <synthesis_reference>Singer, Robert A.; Carreira, Erick M. An in situ procedure for catalytic, enantioselective acetate aldol addition. Application to the synthesis of (R)-(-)-epinephrine. Tetrahedron Letters (1997), 38(6), 927-930.</synthesis_reference>
+  <general_references>
+    <reference>
+      <reference_text>Blagitko N, Schulz U, Schinzel AA, Ropers HH, Kalscheuer VM: gamma2-COP, a novel imprinted gene on chromosome 7q32, defines a new imprinting cluster in the human genome. Hum Mol Genet. 1999 Dec;8(13):2387-96.</reference_text>
+      <pubmed_id>10556286</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Goldstein DS, Eisenhofer G, Kopin IJ: Sources and significance of plasma levels of catechols and their metabolites in humans. J Pharmacol Exp Ther. 2003 Jun;305(3):800-11. Epub 2003 Mar 20.</reference_text>
+      <pubmed_id>12649306</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kurtis JD, Friedman JF, Leenstra T, Langdon GC, Wu HW, Manalo DL, Su L, Jiz M, Jarilla B, Pablo AO, McGarvey ST, Olveda RM, Acosta LP: Pubertal development predicts resistance to infection and reinfection with Schistosoma japonicum. Clin Infect Dis. 2006 Jun 15;42(12):1692-8. Epub 2006 May 12.</reference_text>
+      <pubmed_id>16705573</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Eisenhofer G, Keiser H, Friberg P, Mezey E, Huynh TT, Hiremagalur B, Ellingson T, Duddempudi S, Eijsbouts A, Lenders JW: Plasma metanephrines are markers of pheochromocytoma produced by catechol-O-methyltransferase within tumors. J Clin Endocrinol Metab. 1998 Jun;83(6):2175-85.</reference_text>
+      <pubmed_id>9626157</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Igdoura SA, Gafuik C, Mertineit C, Saberi F, Pshezhetsky AV, Potier M, Trasler JM, Gravel RA: Cloning of the cDNA and gene encoding mouse lysosomal sialidase and correction of sialidase deficiency in human sialidosis and mouse SM/J fibroblasts. Hum Mol Genet. 1998 Jan;7(1):115-21.</reference_text>
+      <pubmed_id>9384611</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kaufer D, Ogle WO, Pincus ZS, Clark KL, Nicholas AC, Dinkel KM, Dumas TC, Ferguson D, Lee AL, Winters MA, Sapolsky RM: Restructuring the neuronal stress response with anti-glucocorticoid gene delivery. Nat Neurosci. 2004 Sep;7(9):947-53. Epub 2004 Aug 8.</reference_text>
+      <pubmed_id>15300253</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Yasuda G, Umemura S, Ishii M: Characterization of bunazosin-sensitive alpha1-adrenoceptors in human renal medulla. J Cardiovasc Pharmacol. 1997 Aug;30(2):163-8.</reference_text>
+      <pubmed_id>9269942</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Gear AR, Camerini D: Platelet chemokines and chemokine receptors: linking hemostasis, inflammation, and host defense. Microcirculation. 2003 Jun;10(3-4):335-50.</reference_text>
+      <pubmed_id>12851650</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Wilson BS, Petrella E, Lowe SR, Lien K, Mackensen DG, Gridley DS, Stickney DR: Radiolocalization of human small cell lung cancer and antigen-positive normal tissues using monoclonal antibody LS2D617. Cancer Res. 1990 May 15;50(10):3124-30.</reference_text>
+      <pubmed_id>2159374</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Blakely RD, Apparsundaram S: Structural diversity in the catecholamine transporter gene family: molecular cloning and characterization of an L-epinephrine transporter from bullfrog sympathetic ganglia. Adv Pharmacol. 1998;42:206-10.</reference_text>
+      <pubmed_id>9327880</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Belloni AS, Albertin G, Forneris ML, Nussdorfer GG: Proadrenomedullin-derived peptides as autocrine-paracrine regulators of cell growth. Histol Histopathol. 2001 Oct;16(4):1263-74.</reference_text>
+      <pubmed_id>11642745</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Contreras LN, Arregger AL, Persi GG, Gonzalez NS, Cardoso EM: A new less-invasive and more informative low-dose ACTH test: salivary steroids in response to intramuscular corticotrophin. Clin Endocrinol (Oxf). 2004 Dec;61(6):675-82.</reference_text>
+      <pubmed_id>15579180</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kushnir MM, Rockwood AL, Roberts WL, Pattison EG, Owen WE, Bunker AM, Meikle AW: Development and performance evaluation of a tandem mass spectrometry assay for 4 adrenal steroids. Clin Chem. 2006 Aug;52(8):1559-67. Epub 2006 Jun 15.</reference_text>
+      <pubmed_id>16777916</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Krohn K, Uibo R, Aavik E, Peterson P, Savilahti K: Identification by molecular cloning of an autoantigen associated with Addison's disease as steroid 17 alpha-hydroxylase. Lancet. 1992 Mar 28;339(8796):770-3.</reference_text>
+      <pubmed_id>1347802</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Bornstein SR, Breidert M, Ehrhart-Bornstein M, Kloos B, Scherbaum WA: Plasma catecholamines in patients with Addison's disease. Clin Endocrinol (Oxf). 1995 Feb;42(2):215-8.</reference_text>
+      <pubmed_id>7704967</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Engelborghs S, Marescau B, De Deyn PP: Amino acids and biogenic amines in cerebrospinal fluid of patients with Parkinson's disease. Neurochem Res. 2003 Aug;28(8):1145-50.</reference_text>
+      <pubmed_id>12834252</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Hiroi N, Yanagisawa R, Yoshida-Hiroi M, Endo T, Kawase T, Tsuchida Y, Toyama K, Shibuya K, Nakata K, Yoshino G: Retroperitoneal hemorrhage due to bilateral adrenal metastases from lung adenocarcinoma. J Endocrinol Invest. 2006 Jun;29(6):551-4.</reference_text>
+      <pubmed_id>16840834</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Kennedy B, Bigby TD, Ziegler MG: Nonadrenal epinephrine-forming enzymes in humans. Characteristics, distribution, regulation, and relationship to epinephrine levels. J Clin Invest. 1995 Jun;95(6):2896-902.</reference_text>
+      <pubmed_id>7769131</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Panholzer TJ, Beyer J, Lichtwald K: Coupled-column liquid chromatographic analysis of catecholamines, serotonin, and metabolites in human urine. Clin Chem. 1999 Feb;45(2):262-8.</reference_text>
+      <pubmed_id>9931050</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>De Bellis MD, Baum AS, Birmaher B, Keshavan MS, Eccard CH, Boring AM, Jenkins FJ, Ryan ND: A.E. Bennett Research Award. Developmental traumatology. Part I: Biological stress systems. Biol Psychiatry. 1999 May 15;45(10):1259-70.</reference_text>
+      <pubmed_id>10349032</pubmed_id>
+    </reference>
+  </general_references>
+  <protein_associations>
+    <protein>
+      <protein_accession>HMDBP00161</protein_accession>
+      <name>Amine oxidase [flavin-containing] B</name>
+      <uniprot_id>P27338</uniprot_id>
+      <gene_name>MAOB</gene_name>
+      <protein_type>Unknown</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP00169</protein_accession>
+      <name>Amine oxidase [flavin-containing] A</name>
+      <uniprot_id>P21397</uniprot_id>
+      <gene_name>MAOA</gene_name>
+      <protein_type>Unknown</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP00272</protein_accession>
+      <name>Catechol O-methyltransferase</name>
+      <uniprot_id>P21964</uniprot_id>
+      <gene_name>COMT</gene_name>
+      <protein_type>Unknown</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP00280</protein_accession>
+      <name>Phenylalanine-4-hydroxylase</name>
+      <uniprot_id>P00439</uniprot_id>
+      <gene_name>PAH</gene_name>
+      <protein_type>Enzyme</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP00406</protein_accession>
+      <name>Phenylethanolamine N-methyltransferase</name>
+      <uniprot_id>P11086</uniprot_id>
+      <gene_name>PNMT</gene_name>
+      <protein_type>Unknown</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP01601</protein_accession>
+      <name>Alpha-2A adrenergic receptor</name>
+      <uniprot_id>P08913</uniprot_id>
+      <gene_name>ADRA2A</gene_name>
+      <protein_type>Enzyme</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP01602</protein_accession>
+      <name>Alpha-2B adrenergic receptor</name>
+      <uniprot_id>P18089</uniprot_id>
+      <gene_name>ADRA2B</gene_name>
+      <protein_type>Enzyme</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP01632</protein_accession>
+      <name>Beta-1 adrenergic receptor</name>
+      <uniprot_id>P08588</uniprot_id>
+      <gene_name>ADRB1</gene_name>
+      <protein_type>Enzyme</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP01634</protein_accession>
+      <name>Beta-2 adrenergic receptor</name>
+      <uniprot_id>P07550</uniprot_id>
+      <gene_name>ADRB2</gene_name>
+      <protein_type>Enzyme</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP07433</protein_accession>
+      <name>Alpha-1A adrenergic receptor</name>
+      <uniprot_id>P35348</uniprot_id>
+      <gene_name>ADRA1A</gene_name>
+      <protein_type>Unknown</protein_type>
+    </protein>
+    <protein>
+      <protein_accession>HMDBP10805</protein_accession>
+      <name>Trace amine-associated receptor 1</name>
+      <uniprot_id>Q96RJ0</uniprot_id>
+      <gene_name>TAAR1</gene_name>
+      <protein_type>Unknown</protein_type>
+    </protein>
+  </protein_associations>
+</metabolite>
+<metabolite>
+  <version>4.0</version>
+  <creation_date>2005-11-16 15:48:42 UTC</creation_date>
+  <update_date>2018-05-19 22:28:01 UTC</update_date>
+  <accession>HMDB0000403</accession>
+  <status>quantified</status>
+  <secondary_accessions>
+    <accession>HMDB00403</accession>
+  </secondary_accessions>
+  <name>2-Hydroxyadenine</name>
+  <cs_description>2-Hydroxyadenine, also known as 2-OH-ade or crotonoside, belongs to the class of organic compounds known as 6-aminopurines. These are purines that carry an amino group at position 6. Purine is a bicyclic aromatic compound made up of a pyrimidine ring fused to an imidazole ring. 2-Hydroxyadenine exists as a solid, slightly soluble (in water), and a very weakly acidic compound (based on its pKa). 2-Hydroxyadenine has been primarily detected in urine. Within the cell, 2-hydroxyadenine is primarily located in the cytoplasm.</cs_description>
+  <description>2-Hydroxyadenine (2-OH-Ade) is formed by hydroxyl radical attack on DNA bases and shows a genotoxicity in human, being the source of the mutations induced by reactive oxygen species. 2-OH-Ade in DNA is miscoding and elicits various mutations, and is a mutagenic in bacterial and mammalian cells. (Recent Research Developments in Biochemistry (2000)2:41-50).</description>
+  <synonyms>
+    <synonym>2-Oxoadenine</synonym>
+    <synonym>6-amino-1,3-dihydro-2H-Purin-2-one</synonym>
+    <synonym>6-amino-3,7-dihydro-Purin-2-one</synonym>
+    <synonym>6-amino-3,9-dihydro-2H-Purin-2-one</synonym>
+    <synonym>6-amino-7H-Purin-2-ol</synonym>
+    <synonym>6-amino-9H-Purin-2-ol</synonym>
+    <synonym>2-Hydroxy-6-aminopurine</synonym>
+    <synonym>2-Oxyadenine</synonym>
+    <synonym>6-amino-2-Hydroxypurine</synonym>
+    <synonym>6-amino-3,7(9)-dihydro-Purin-2-one</synonym>
+    <synonym>Isoguanine</synonym>
+    <synonym>2-OH-Ade</synonym>
+    <synonym>Crotonoside</synonym>
+  </synonyms>
+  <chemical_formula>C5H5N5O</chemical_formula>
+  <average_molecular_weight>151.1261</average_molecular_weight>
+  <monisotopic_molecular_weight>151.049409807</monisotopic_molecular_weight>
+  <iupac_name>6-amino-7H-purin-2-ol</iupac_name>
+  <traditional_iupac>2-hydroxy-6-aminopurine</traditional_iupac>
+  <cas_registry_number>3373-53-3</cas_registry_number>
+  <smiles>NC1=NC(O)=NC2=C1NC=N2</smiles>
+  <inchi>InChI=1S/C5H5N5O/c6-3-2-4(8-1-7-2)10-5(11)9-3/h1H,(H4,6,7,8,9,10,11)</inchi>
+  <inchikey>DRAVOWXCEBXPTN-UHFFFAOYSA-N</inchikey>
+  <taxonomy>
+    <description>This compound belongs to the class of organic compounds known as 6-aminopurines. These are purines that carry an amino group at position 6. Purine is a bicyclic aromatic compound made up of a pyrimidine ring fused to an imidazole ring.</description>
+    <direct_parent>6-aminopurines</direct_parent>
+    <kingdom>Organic compounds</kingdom>
+    <super_class>Organoheterocyclic compounds</super_class>
+    <class>Imidazopyrimidines</class>
+    <sub_class>Purines and purine derivatives</sub_class>
+    <molecular_framework>Aromatic heteropolycyclic compounds</molecular_framework>
+    <alternative_parents>
+      <alternative_parent>Aminopyrimidines and derivatives</alternative_parent>
+      <alternative_parent>Azacyclic compounds</alternative_parent>
+      <alternative_parent>Heteroaromatic compounds</alternative_parent>
+      <alternative_parent>Hydrocarbon derivatives</alternative_parent>
+      <alternative_parent>Hydroxypyrimidines</alternative_parent>
+      <alternative_parent>Imidazoles</alternative_parent>
+      <alternative_parent>Imidolactams</alternative_parent>
+      <alternative_parent>Organooxygen compounds</alternative_parent>
+      <alternative_parent>Organopnictogen compounds</alternative_parent>
+      <alternative_parent>Primary amines</alternative_parent>
+    </alternative_parents>
+    <substituents>
+      <substituent>6-aminopurine</substituent>
+      <substituent>Amine</substituent>
+      <substituent>Aminopyrimidine</substituent>
+      <substituent>Aromatic heteropolycyclic compound</substituent>
+      <substituent>Azacycle</substituent>
+      <substituent>Azole</substituent>
+      <substituent>Heteroaromatic compound</substituent>
+      <substituent>Hydrocarbon derivative</substituent>
+      <substituent>Hydroxypyrimidine</substituent>
+      <substituent>Imidazole</substituent>
+      <substituent>Imidolactam</substituent>
+      <substituent>Organic nitrogen compound</substituent>
+      <substituent>Organic oxygen compound</substituent>
+      <substituent>Organonitrogen compound</substituent>
+      <substituent>Organooxygen compound</substituent>
+      <substituent>Organopnictogen compound</substituent>
+      <substituent>Primary amine</substituent>
+      <substituent>Pyrimidine</substituent>
+    </substituents>
+    <external_descriptors>
+      <external_descriptor>a small molecule</external_descriptor>
+      <external_descriptor>oxopurine</external_descriptor>
+    </external_descriptors>
+  </taxonomy>
+  <ontology>
+    <root>
+      <term>Disposition</term>
+      <definition>A concept that describes the origin of a chemical, its location within an organism, or its route of exposure.</definition>
+      <parent_id/>
+      <level>1</level>
+      <type>parent</type>
+      <descendants>
+        <descendant>
+          <term>Source</term>
+          <definition>Natural or synthetic origin of a chemical.</definition>
+          <parent_id>7724</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Endogenous</term>
+              <definition/>
+              <parent_id>7735</parent_id>
+              <level>3</level>
+              <type>child</type>
+              <synonyms>
+              </synonyms>
+            </descendant>
+          </descendants>
+        </descendant>
+        <descendant>
+          <term>Biological location</term>
+          <definition>The physiological origin within an organism, including anatomical compnents, biofluids and excreta.</definition>
+          <parent_id>7724</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Subcellular</term>
+              <definition>An anatomical organizational level including a component within a biological cell .</definition>
+              <parent_id>7725</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Cytoplasm</term>
+                  <definition>The portion of the cell contained within the plasma membrane but excluding the nucleus.</definition>
+                  <parent_id>7730</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                    <synonym>Cytoplasma</synonym>
+                  </synonyms>
+                </descendant>
+              </descendants>
+            </descendant>
+            <descendant>
+              <term>Biofluid and excreta</term>
+              <definition>A liquid, semi-solid or solid material originating in the body.</definition>
+              <parent_id>7725</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Urine</term>
+                  <definition>Excretion in liquid state processed by the kidney.</definition>
+                  <parent_id>7731</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+              </descendants>
+            </descendant>
+          </descendants>
+        </descendant>
+      </descendants>
+    </root>
+  </ontology>
+  <state>Solid</state>
+  <experimental_properties>
+    <property>
+      <kind>water_solubility</kind>
+      <value>0.0625 mg/mL</value>
+      <source/>
+    </property>
+    <property>
+      <kind>melting_point</kind>
+      <value>&gt; 360 °C</value>
+      <source/>
+    </property>
+  </experimental_properties>
+  <predicted_properties>
+    <property>
+      <kind>logp</kind>
+      <value>-0.65</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logs</kind>
+      <value>-1.33</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>solubility</kind>
+      <value>7.06 g/L</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logp</kind>
+      <value>-0.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_acidic</kind>
+      <value>10.78</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_basic</kind>
+      <value>2.02</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>iupac</kind>
+      <value>6-amino-7H-purin-2-ol</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>average_mass</kind>
+      <value>151.1261</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mono_mass</kind>
+      <value>151.049409807</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>smiles</kind>
+      <value>NC1=NC(O)=NC2=C1NC=N2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formula</kind>
+      <value>C5H5N5O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchi</kind>
+      <value>InChI=1S/C5H5N5O/c6-3-2-4(8-1-7-2)10-5(11)9-3/h1H,(H4,6,7,8,9,10,11)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchikey</kind>
+      <value>DRAVOWXCEBXPTN-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polar_surface_area</kind>
+      <value>100.71</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>refractivity</kind>
+      <value>40.15</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polarizability</kind>
+      <value>13.36</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rotatable_bond_count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>acceptor_count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>donor_count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>physiological_charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formal_charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>number_of_rings</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rule_of_five</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>ghose_filter</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>veber_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mddr_like_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+  </predicted_properties>
+  <spectra>
+    <spectrum>
+      <type>Specdb::CMs</type>
+      <spectrum_id>9743</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::CMs</type>
+      <spectrum_id>37503</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>612</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>613</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>614</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>287524</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>287525</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>287526</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>326395</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>326396</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>326397</spectrum_id>
+    </spectrum>
+  </spectra>
+  <cellular_locations>
+    <cellular>Cytoplasm</cellular>
+  </cellular_locations>
+  <biospecimen_locations>
+    <biospecimen>Urine</biospecimen>
+  </biospecimen_locations>
+  <tissue_locations>
+  </tissue_locations>
+  <pathways>
+  </pathways>
+  <normal_concentrations>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value>&lt;1</concentration_value>
+      <concentration_units>nmol/mmol creatinine</concentration_units>
+      <subject_age>Adult (&gt;18 years old)</subject_age>
+      <subject_sex>Both</subject_sex>
+      <subject_condition>Normal</subject_condition>
+      <references>
+        <reference>
+          <reference_text>Guo K, Li L: Differential 12C-/13C-isotope dansylation labeling and fast liquid chromatography/mass spectrometry for absolute and relative quantification of the metabolome. Anal Chem. 2009 May 15;81(10):3919-32. doi: 10.1021/ac900166a.</reference_text>
+          <pubmed_id>19309105</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+  </normal_concentrations>
+  <abnormal_concentrations>
+  </abnormal_concentrations>
+  <diseases>
+  </diseases>
+  <drugbank_id/>
+  <drugbank_metabolite_id/>
+  <phenol_explorer_compound_id/>
+  <phenol_explorer_metabolite_id/>
+  <foodb_id>FDB022019</foodb_id>
+  <knapsack_id/>
+  <chemspider_id>69351</chemspider_id>
+  <kegg_id/>
+  <biocyc_id/>
+  <bigg_id/>
+  <wikipidia>isoguanine</wikipidia>
+  <nugowiki>322</nugowiki>
+  <metagene/>
+  <metlin_id>5392</metlin_id>
+  <pubchem_compound_id>76900</pubchem_compound_id>
+  <het_id>IGA</het_id>
+  <chebi_id>62462</chebi_id>
+  <synthesis_reference>Hayashi, Taketo; Tamato, Toyomochi.  Preparation of isoguanine.    Jpn. Kokai Tokkyo Koho  (1994),     3 pp.</synthesis_reference>
+  <general_references>
+    <reference>
+      <reference_text>Olinski R, Zastawny T, Budzbon J, Skokowski J, Zegarski W, Dizdaroglu M: DNA base modifications in chromatin of human cancerous tissues. FEBS Lett. 1992 Sep 7;309(2):193-8.</reference_text>
+      <pubmed_id>1324197</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Arashidani K, Iwamoto-Tanaka N, Muraoka M, Kasai H: Genotoxicity of ribo- and deoxyribonucleosides of 8-hydroxyguanine, 5-hydroxycytosine, and 2-hydroxyadenine: induction of SCE in human lymphocytes and mutagenicity in Salmonella typhimurium TA 100. Mutat Res. 1998 Jul 17;403(1-2):223-7.</reference_text>
+      <pubmed_id>9726022</pubmed_id>
+    </reference>
+  </general_references>
+  <protein_associations>
+  </protein_associations>
+</metabolite>
+<metabolite>
+  <version>4.0</version>
+  <creation_date>2007-04-12 21:08:20 UTC</creation_date>
+  <update_date>2018-05-18 01:55:50 UTC</update_date>
+  <accession>HMDB0006045</accession>
+  <status>quantified</status>
+  <secondary_accessions>
+    <accession>HMDB06045</accession>
+  </secondary_accessions>
+  <name>Dityrosine</name>
+  <cs_description>Dityrosine, also known as o,o'-dityrosine, belongs to the class of organic compounds known as lignans, neolignans and related compounds. These are plant products of low molecular weight formed primarily from oxidative coupling of two p-propylphenol moieties. They can also be described as micromolecules with two phenylpropanoid units coupled together. They can be attached in various manners, like C5-C5', C8-C8'. Most known natural lignans are oxidized at C9 and C9´ and, based upon the way in which oxygen is incorporated into the skeleton and on the cyclization patterns, a wide range of lignans of very different structural types can be formed. Dityrosine is considered to be a practically insoluble (in water) and relatively neutral molecule. Dityrosine has been primarily detected in urine. </cs_description>
+  <description>Dityrosine is a fluorescent molecule formed as a result of normal posttranslational processing. In many structural proteins, dityrosine confers resistance to proteolysis and physicochemical trauma as a stabilizing crosslink. Dityrosine has also been found in oxidative/nitrative stress under a variety of conditions and biological systems. In this regard, it has been used as an important biomarker for oxidatively modified proteins during UV and gamma-irradiation, aging, and exposure to oxygen free radicals, nitrogen dioxide, peroxynitrite, and lipid hydroperoxides. Renewed interest in dityrosine and other tyrosine oxidation products as clinical indicators of oxidative modification has driven the development of important techniques for the specific analysis and quantification of these molecules. The presence of elevated levels of dityrosine in mammalian tissue and urine samples has been measured by chromatographic separation followed by mass spectrometry GC-MS and HPLC-MS/MS. Increases in dityrosine levels have been associated with pathologies such as eye cataracts, atherosclerosis, acute inflammation, and Alzheimer's disease. The continued development of, and increased accessibility to, improved mass spectrometric instrumentation will expand the capability, feasibility, and sensitivity with which specific biomarkers like dityrosine can be measured. (PMID: 17019703).</description>
+  <synonyms>
+    <synonym>Bityrosine</synonym>
+    <synonym>O,O'-dityrosine</synonym>
+    <synonym>O,O-Dityrosine</synonym>
+  </synonyms>
+  <chemical_formula>C18H20N2O6</chemical_formula>
+  <average_molecular_weight>360.3612</average_molecular_weight>
+  <monisotopic_molecular_weight>360.132136382</monisotopic_molecular_weight>
+  <iupac_name>2-amino-3-{4-[4-(2-amino-2-carboxyethyl)-2-hydroxyphenyl]-3-hydroxyphenyl}propanoic acid</iupac_name>
+  <traditional_iupac>2-amino-3-{4-[4-(2-amino-2-carboxyethyl)-2-hydroxyphenyl]-3-hydroxyphenyl}propanoic acid</traditional_iupac>
+  <cas_registry_number>980-21-2</cas_registry_number>
+  <smiles>NC(CC1=CC(O)=C(C=C1)C1=CC=C(CC(N)C(O)=O)C=C1O)C(O)=O</smiles>
+  <inchi>InChI=1S/C18H20N2O6/c19-13(17(23)24)5-9-1-3-11(15(21)7-9)12-4-2-10(8-16(12)22)6-14(20)18(25)26/h1-4,7-8,13-14,21-22H,5-6,19-20H2,(H,23,24)(H,25,26)</inchi>
+  <inchikey>FHOZGLMQYMAREG-UHFFFAOYSA-N</inchikey>
+  <taxonomy>
+    <description>This compound belongs to the class of organic compounds known as lignans, neolignans and related compounds. These are plant products of low molecular weight formed primarily from oxidative coupling of two p-propylphenol moieties. They can also be described as micromolecules with two phenylpropanoid units coupled together. They can be attached in various manners, like C5-C5', C8-C8'. Most known natural lignans are oxidized at C9 and C9´ and, based upon the way in which oxygen is incorporated into the skeleton and on the cyclization patterns, a wide range of lignans of very different structural types can be formed.</description>
+    <direct_parent>Lignans, neolignans and related compounds</direct_parent>
+    <kingdom>Organic compounds</kingdom>
+    <super_class>Lignans, neolignans and related compounds</super_class>
+    <class/>
+    <sub_class/>
+    <molecular_framework>Aromatic homomonocyclic compounds</molecular_framework>
+    <alternative_parents>
+      <alternative_parent>1-hydroxy-2-unsubstituted benzenoids</alternative_parent>
+      <alternative_parent>1-hydroxy-4-unsubstituted benzenoids</alternative_parent>
+      <alternative_parent>Alpha amino acids</alternative_parent>
+      <alternative_parent>Amino acids</alternative_parent>
+      <alternative_parent>Amphetamines and derivatives</alternative_parent>
+      <alternative_parent>Aralkylamines</alternative_parent>
+      <alternative_parent>Biphenyls and derivatives</alternative_parent>
+      <alternative_parent>Carbonyl compounds</alternative_parent>
+      <alternative_parent>Carboxylic acids</alternative_parent>
+      <alternative_parent>Dicarboxylic acids and derivatives</alternative_parent>
+      <alternative_parent>Hydrocarbon derivatives</alternative_parent>
+      <alternative_parent>Monoalkylamines</alternative_parent>
+      <alternative_parent>Organic oxides</alternative_parent>
+      <alternative_parent>Organopnictogen compounds</alternative_parent>
+      <alternative_parent>Phenylalanine and derivatives</alternative_parent>
+      <alternative_parent>Phenylpropanoic acids</alternative_parent>
+    </alternative_parents>
+    <substituents>
+      <substituent>1-hydroxy-2-unsubstituted benzenoid</substituent>
+      <substituent>1-hydroxy-4-unsubstituted benzenoid</substituent>
+      <substituent>3-phenylpropanoic-acid</substituent>
+      <substituent>Alpha-amino acid</substituent>
+      <substituent>Alpha-amino acid or derivatives</substituent>
+      <substituent>Amine</substituent>
+      <substituent>Amino acid</substituent>
+      <substituent>Amino acid or derivatives</substituent>
+      <substituent>Amphetamine or derivatives</substituent>
+      <substituent>Aralkylamine</substituent>
+      <substituent>Aromatic homomonocyclic compound</substituent>
+      <substituent>Benzenoid</substituent>
+      <substituent>Biphenyl</substituent>
+      <substituent>Carbonyl group</substituent>
+      <substituent>Carboxylic acid</substituent>
+      <substituent>Carboxylic acid derivative</substituent>
+      <substituent>Dicarboxylic acid or derivatives</substituent>
+      <substituent>Hydrocarbon derivative</substituent>
+      <substituent>Monocyclic benzene moiety</substituent>
+      <substituent>Neolignan skeleton</substituent>
+      <substituent>Organic nitrogen compound</substituent>
+      <substituent>Organic oxide</substituent>
+      <substituent>Organic oxygen compound</substituent>
+      <substituent>Organonitrogen compound</substituent>
+      <substituent>Organooxygen compound</substituent>
+      <substituent>Organopnictogen compound</substituent>
+      <substituent>Phenol</substituent>
+      <substituent>Phenylalanine or derivatives</substituent>
+      <substituent>Primary aliphatic amine</substituent>
+      <substituent>Primary amine</substituent>
+    </substituents>
+    <external_descriptors>
+    </external_descriptors>
+  </taxonomy>
+  <ontology>
+    <root>
+      <term>Disposition</term>
+      <definition>A concept that describes the origin of a chemical, its location within an organism, or its route of exposure.</definition>
+      <parent_id/>
+      <level>1</level>
+      <type>parent</type>
+      <descendants>
+        <descendant>
+          <term>Biological location</term>
+          <definition>The physiological origin within an organism, including anatomical compnents, biofluids and excreta.</definition>
+          <parent_id>7724</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Biofluid and excreta</term>
+              <definition>A liquid, semi-solid or solid material originating in the body.</definition>
+              <parent_id>7725</parent_id>
+              <level>3</level>
+              <type>parent</type>
+              <synonyms>
+              </synonyms>
+              <descendants>
+                <descendant>
+                  <term>Urine</term>
+                  <definition>Excretion in liquid state processed by the kidney.</definition>
+                  <parent_id>7731</parent_id>
+                  <level>4</level>
+                  <type>child</type>
+                  <synonyms>
+                  </synonyms>
+                </descendant>
+              </descendants>
+            </descendant>
+          </descendants>
+        </descendant>
+        <descendant>
+          <term>Source</term>
+          <definition>Natural or synthetic origin of a chemical.</definition>
+          <parent_id>7724</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Endogenous</term>
+              <definition/>
+              <parent_id>7735</parent_id>
+              <level>3</level>
+              <type>child</type>
+              <synonyms>
+              </synonyms>
+            </descendant>
+          </descendants>
+        </descendant>
+      </descendants>
+    </root>
+  </ontology>
+  <state>Solid</state>
+  <experimental_properties>
+  </experimental_properties>
+  <predicted_properties>
+    <property>
+      <kind>logp</kind>
+      <value>-2.78</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logs</kind>
+      <value>-3.84</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>solubility</kind>
+      <value>0.052 g/L</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logp</kind>
+      <value>-3.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_acidic</kind>
+      <value>1.56</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_basic</kind>
+      <value>9.94</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>iupac</kind>
+      <value>2-amino-3-{4-[4-(2-amino-2-carboxyethyl)-2-hydroxyphenyl]-3-hydroxyphenyl}propanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>average_mass</kind>
+      <value>360.3612</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mono_mass</kind>
+      <value>360.132136382</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>smiles</kind>
+      <value>NC(CC1=CC(O)=C(C=C1)C1=CC=C(CC(N)C(O)=O)C=C1O)C(O)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formula</kind>
+      <value>C18H20N2O6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchi</kind>
+      <value>InChI=1S/C18H20N2O6/c19-13(17(23)24)5-9-1-3-11(15(21)7-9)12-4-2-10(8-16(12)22)6-14(20)18(25)26/h1-4,7-8,13-14,21-22H,5-6,19-20H2,(H,23,24)(H,25,26)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchikey</kind>
+      <value>FHOZGLMQYMAREG-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polar_surface_area</kind>
+      <value>167.1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>refractivity</kind>
+      <value>93.27</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polarizability</kind>
+      <value>37.15</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rotatable_bond_count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>acceptor_count</kind>
+      <value>8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>donor_count</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>physiological_charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formal_charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>number_of_rings</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rule_of_five</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>ghose_filter</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>veber_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mddr_like_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+  </predicted_properties>
+  <spectra>
+    <spectrum>
+      <type>Specdb::CMs</type>
+      <spectrum_id>15180</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::CMs</type>
+      <spectrum_id>38947</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>67995</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>67996</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>67997</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>125937</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>125938</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>125939</spectrum_id>
+    </spectrum>
+  </spectra>
+  <cellular_locations>
+  </cellular_locations>
+  <biospecimen_locations>
+    <biospecimen>Urine</biospecimen>
+  </biospecimen_locations>
+  <tissue_locations>
+  </tissue_locations>
+  <pathways>
+  </pathways>
+  <normal_concentrations>
+  </normal_concentrations>
+  <abnormal_concentrations>
+    <concentration>
+      <biospecimen>Urine</biospecimen>
+      <concentration_value>0.0052 +/- 0.00065</concentration_value>
+      <concentration_units>umol/mmol creatinine</concentration_units>
+      <patient_age>Adult (&gt;18 years old)</patient_age>
+      <patient_sex>Both</patient_sex>
+      <patient_information>Smoking</patient_information>
+      <references>
+        <reference>
+          <reference_text>Orhan H, Coolen S, Meerman JH: Quantification of urinary o,o'-dityrosine, a biomarker for oxidative damage to proteins, by high performance liquid chromatography with triple quadrupole tandem mass spectrometry. A comparison with ion-trap tandem mass spectrometry. J Chromatogr B Analyt Technol Biomed Life Sci. 2005 Nov 15;827(1):104-8.</reference_text>
+          <pubmed_id>15878312</pubmed_id>
+        </reference>
+      </references>
+    </concentration>
+  </abnormal_concentrations>
+  <diseases>
+    <disease>
+      <name>Smoking</name>
+      <omim_id/>
+      <references>
+        <reference>
+          <reference_text>Carmella SG, La Voie EJ, Hecht SS: Quantitative analysis of catechol and 4-methylcatechol in human urine. Food Chem Toxicol. 1982 Oct;20(5):587-90.</reference_text>
+          <pubmed_id>6890513</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Moyer TP, Charlson JR, Enger RJ, Dale LC, Ebbert JO, Schroeder DR, Hurt RD: Simultaneous analysis of nicotine, nicotine metabolites, and tobacco alkaloids in serum or urine by tandem mass spectrometry, with clinically relevant metabolic profiles. Clin Chem. 2002 Sep;48(9):1460-71.</reference_text>
+          <pubmed_id>12194923</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Zuccaro P, Altieri I, Rosa M, Passa AR, Pichini S, Ricciarello G, Pacifici R: Determination of nicotine and four metabolites in the serum of smokers by high-performance liquid chromatography with ultraviolet detection. J Chromatogr. 1993 Nov 24;621(2):257-61.</reference_text>
+          <pubmed_id>8294547</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Chen HJ, Wu CF, Huang JL: Measurement of urinary excretion of 5-hydroxymethyluracil in human by GC/NICI/MS: correlation with cigarette smoking, urinary TBARS and etheno DNA adduct. Toxicol Lett. 2005 Mar 15;155(3):403-10.</reference_text>
+          <pubmed_id>15649624</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Ueda S, Matsuoka H, Miyazaki H, Usui M, Okuda S, Imaizumi T: Tetrahydrobiopterin restores endothelial function in long-term smokers. J Am Coll Cardiol. 2000 Jan;35(1):71-5.</reference_text>
+          <pubmed_id>10636262</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Ruppert T, Scherer G, Tricker AR, Adlkofer F: trans,trans-muconic acid as a biomarker of non-occupational environmental exposure to benzene. Int Arch Occup Environ Health. 1997;69(4):247-51.</reference_text>
+          <pubmed_id>9137998</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Massadeh AM, Gharaibeh AA, Omari KW: A single-step extraction method for the determination of nicotine and cotinine in Jordanian smokers' blood and urine samples by RP-HPLC and GC-MS. J Chromatogr Sci. 2009 Feb;47(2):170-7.</reference_text>
+          <pubmed_id>19222926</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Orhan H, Coolen S, Meerman JH: Quantification of urinary o,o'-dityrosine, a biomarker for oxidative damage to proteins, by high performance liquid chromatography with triple quadrupole tandem mass spectrometry. A comparison with ion-trap tandem mass spectrometry. J Chromatogr B Analyt Technol Biomed Life Sci. 2005 Nov 15;827(1):104-8.</reference_text>
+          <pubmed_id>15878312</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Schettgen T, Musiol A, Kraus T: Simultaneous determination of mercapturic acids derived from ethylene oxide (HEMA), propylene oxide (2-HPMA), acrolein (3-HPMA), acrylamide (AAMA) and N,N-dimethylformamide (AMCC) in human urine using liquid chromatography/tandem mass spectrometry. Rapid Commun Mass Spectrom. 2008 Sep;22(17):2629-38. doi: 10.1002/rcm.3659.</reference_text>
+          <pubmed_id>18666198</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Li N, Jia X, Chen CY, Blumberg JB, Song Y, Zhang W, Zhang X, Ma G, Chen J: Almond consumption reduces oxidative DNA damage and lipid peroxidation in male smokers. J Nutr. 2007 Dec;137(12):2717-22.</reference_text>
+          <pubmed_id>18029489</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Malkawi AH, Al-Ghananeem AM, de Leon J, Crooks PA: Nicotine exposure can be detected in cerebrospinal fluid of active and passive smokers. J Pharm Biomed Anal. 2009 Jan 15;49(1):129-32. doi: 10.1016/j.jpba.2008.10.003. Epub 2008 Oct 15.</reference_text>
+          <pubmed_id>19036546</pubmed_id>
+        </reference>
+        <reference>
+          <reference_text>Geigy Scientific Tables, 8th Rev edition, pp. 165-177. Edited by C. Lentner, West Cadwell, N.J.: Medical education Div., Ciba-Geigy Corp., Basel, Switzerland c1981-1992.</reference_text>
+          <pubmed_id/>
+        </reference>
+      </references>
+    </disease>
+  </diseases>
+  <drugbank_id/>
+  <drugbank_metabolite_id/>
+  <phenol_explorer_compound_id/>
+  <phenol_explorer_metabolite_id/>
+  <foodb_id>FDB023818</foodb_id>
+  <knapsack_id/>
+  <chemspider_id>21233943</chemspider_id>
+  <kegg_id/>
+  <biocyc_id/>
+  <bigg_id/>
+  <wikipidia/>
+  <nugowiki>5250</nugowiki>
+  <metagene/>
+  <metlin_id/>
+  <pubchem_compound_id>53477799</pubchem_compound_id>
+  <het_id/>
+  <chebi_id/>
+  <synthesis_reference/>
+  <general_references>
+    <reference>
+      <reference_text>Abdelrahim M, Morris E, Carver J, Facchina S, White A, Verma A: Liquid chromatographic assay of dityrosine in human cerebrospinal fluid. J Chromatogr B Biomed Sci Appl. 1997 Aug 29;696(2):175-82.</reference_text>
+      <pubmed_id>9323538</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>Galeazzi L, Ronchi P, Franceschi C, Giunta S: In vitro peroxidase oxidation induces stable dimers of beta-amyloid (1-42) through dityrosine bridge formation. Amyloid. 1999 Mar;6(1):7-13.</reference_text>
+      <pubmed_id>10211406</pubmed_id>
+    </reference>
+    <reference>
+      <reference_text>DiMarco T, Giulivi C: Current analytical methods for the detection of dityrosine, a biomarker of oxidative stress, in biological samples. Mass Spectrom Rev. 2007 Jan-Feb;26(1):108-20.</reference_text>
+      <pubmed_id>17019703</pubmed_id>
+    </reference>
+  </general_references>
+  <protein_associations>
+  </protein_associations>
+</metabolite>
+<metabolite>
+  <version>4.0</version>
+  <creation_date>2018-06-07 00:54:57 UTC</creation_date>
+  <update_date>2018-06-11 23:02:19 UTC</update_date>
+  <accession>HMDB0240288</accession>
+  <status>expected</status>
+  <secondary_accessions>
+  </secondary_accessions>
+  <name>Tromethamine</name>
+  <cs_description>Tris, also known as THAM or Tris(hydroxymethyl)aminomethane, is classified as a 1,2-aminoalcohol. 1,2-aminoalcohols are organic compounds containing an alkyl chain with an amine group bound to the C1 atom and an alcohol group bound to the C2 atom. Tris is considered a soluble (in water), relatively neutral compound.
+
+Tromethamine is a member of the pyrrolo-pyrrole group of non-steroidal anti-inflammatory drugs (NSAID) with analgesic, anti-inflammatory, and anti-pyretic properties. Tromethamine inhibits both isoforms of cyclooxygenases (COX1 and COX2), thereby blocking the conversion of arachidonic acid to pro-inflammatory pro-prostaglandins. When inhibiting COX2, tromethamine may be effective in relieving pain and inflammation; when inhibiting COX1, this agent may produce unacceptable gastrointestinal side effects.</cs_description>
+  <description>Tromethamine, also known as trometamol or tham, belongs to the class of organic compounds known as 1,2-aminoalcohols. These are organic compounds containing an alkyl chain with an amine group bound to the C1 atom and an alcohol group bound to the C2 atom. Tromethamine is a drug which is used for the prevention and correction of metabolic acidosis. Tromethamine exists as a solid, soluble (in water), and a very weakly acidic compound (based on its pKa). Tromethamine is also a parent compound for other transformation products, including but not limited to, bis-tris, bis-tris propane, and N-tris(hydroxymethyl)methylglycine.</description>
+  <synonyms>
+    <synonym>1,1,1-Tris(hydroxymethyl)methanamine</synonym>
+    <synonym>2-amino-2-(Hydroxymethyl)-1,3-propanediol</synonym>
+    <synonym>Aminotris(hydroxymethyl)methane</synonym>
+    <synonym>THAM</synonym>
+    <synonym>Tris amino</synonym>
+    <synonym>Tris base</synonym>
+    <synonym>Tris buffer</synonym>
+    <synonym>Tris(hydroxymethyl)aminomethane</synonym>
+    <synonym>Tris-base</synonym>
+    <synonym>Trizma</synonym>
+    <synonym>Trometamol</synonym>
+    <synonym>Tromethamine</synonym>
+    <synonym>Abbott brand OF trometamol</synonym>
+    <synonym>Tris-MG(II)-KCL buffer</synonym>
+    <synonym>Trisamine</synonym>
+    <synonym>Trometamol abbott brand</synonym>
+    <synonym>Tri(hydroxymethyl)aminomethane</synonym>
+    <synonym>Tris-magnesium(II)-potassium chloride buffer</synonym>
+  </synonyms>
+  <chemical_formula>C4H11NO3</chemical_formula>
+  <average_molecular_weight>121.135</average_molecular_weight>
+  <monisotopic_molecular_weight>121.073893223</monisotopic_molecular_weight>
+  <iupac_name>2-amino-2-(hydroxymethyl)propane-1,3-diol</iupac_name>
+  <traditional_iupac>tris buffer</traditional_iupac>
+  <cas_registry_number/>
+  <smiles>NC(CO)(CO)CO</smiles>
+  <inchi>InChI=1S/C4H11NO3/c5-4(1-6,2-7)3-8/h6-8H,1-3,5H2</inchi>
+  <inchikey>LENZDBCJOHFCAS-UHFFFAOYSA-N</inchikey>
+  <taxonomy>
+    <description>This compound belongs to the class of chemical entities known as 1,2-aminoalcohols. These are organic compounds containing an alkyl chain with an amine group bound to the C1 atom and an alcohol group bound to the C2 atom.</description>
+    <direct_parent>1,2-aminoalcohols</direct_parent>
+    <kingdom>Chemical entities</kingdom>
+    <super_class>Organic compounds</super_class>
+    <class>Organic nitrogen compounds</class>
+    <sub_class>Organonitrogen compounds</sub_class>
+    <molecular_framework>Aliphatic acyclic compounds</molecular_framework>
+    <alternative_parents>
+      <alternative_parent>Hydrocarbon derivatives</alternative_parent>
+      <alternative_parent>Monoalkylamines</alternative_parent>
+      <alternative_parent>Organopnictogen compounds</alternative_parent>
+      <alternative_parent>Primary alcohols</alternative_parent>
+    </alternative_parents>
+    <substituents>
+      <substituent>1,2-aminoalcohol</substituent>
+      <substituent>Alcohol</substituent>
+      <substituent>Aliphatic acyclic compound</substituent>
+      <substituent>Hydrocarbon derivative</substituent>
+      <substituent>Organic oxygen compound</substituent>
+      <substituent>Organooxygen compound</substituent>
+      <substituent>Organopnictogen compound</substituent>
+      <substituent>Primary alcohol</substituent>
+      <substituent>Primary aliphatic amine</substituent>
+      <substituent>Primary amine</substituent>
+    </substituents>
+    <external_descriptors>
+      <external_descriptor>a small molecule</external_descriptor>
+      <external_descriptor>primary amino compound</external_descriptor>
+      <external_descriptor>triol</external_descriptor>
+    </external_descriptors>
+  </taxonomy>
+  <ontology>
+  </ontology>
+  <state/>
+  <experimental_properties>
+  </experimental_properties>
+  <predicted_properties>
+    <property>
+      <kind>logp</kind>
+      <value>-2.08</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logs</kind>
+      <value>0.76</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logp</kind>
+      <value>-2.7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_acidic</kind>
+      <value>14.16</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_basic</kind>
+      <value>8.95</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>iupac</kind>
+      <value>2-amino-2-(hydroxymethyl)propane-1,3-diol</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>average_mass</kind>
+      <value>121.135</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mono_mass</kind>
+      <value>121.073893223</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>smiles</kind>
+      <value>NC(CO)(CO)CO</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formula</kind>
+      <value>C4H11NO3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchi</kind>
+      <value>InChI=1S/C4H11NO3/c5-4(1-6,2-7)3-8/h6-8H,1-3,5H2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchikey</kind>
+      <value>LENZDBCJOHFCAS-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polar_surface_area</kind>
+      <value>86.71</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>refractivity</kind>
+      <value>28.36</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polarizability</kind>
+      <value>12.02</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rotatable_bond_count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>acceptor_count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>donor_count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>physiological_charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formal_charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>number_of_rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rule_of_five</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>ghose_filter</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>veber_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mddr_like_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+  </predicted_properties>
+  <spectra>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>59346</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>59347</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>59348</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>115464</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>115465</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>115466</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>445751</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>445752</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>445753</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>445754</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>445755</spectrum_id>
+    </spectrum>
+  </spectra>
+  <cellular_locations>
+  </cellular_locations>
+  <biospecimen_locations>
+  </biospecimen_locations>
+  <tissue_locations>
+  </tissue_locations>
+  <pathways>
+  </pathways>
+  <normal_concentrations>
+  </normal_concentrations>
+  <abnormal_concentrations>
+  </abnormal_concentrations>
+  <diseases>
+  </diseases>
+  <drugbank_id/>
+  <drugbank_metabolite_id/>
+  <phenol_explorer_compound_id/>
+  <phenol_explorer_metabolite_id/>
+  <foodb_id/>
+  <knapsack_id/>
+  <chemspider_id/>
+  <kegg_id/>
+  <biocyc_id/>
+  <bigg_id/>
+  <wikipidia/>
+  <nugowiki>244688</nugowiki>
+  <metagene/>
+  <metlin_id/>
+  <pubchem_compound_id/>
+  <het_id/>
+  <chebi_id/>
+  <synthesis_reference/>
+  <general_references>
+  </general_references>
+  <protein_associations>
+  </protein_associations>
+</metabolite>
+<metabolite>
+  <version>4.0</version>
+  <creation_date>2018-04-09 20:47:50 UTC</creation_date>
+  <update_date>2018-04-09 20:50:10 UTC</update_date>
+  <accession>HMDB0240267</accession>
+  <status>expected</status>
+  <secondary_accessions>
+  </secondary_accessions>
+  <name>Artesunate</name>
+  <cs_description>Artesunate, also known as artesunic acid or AS, belongs to the class of organic compounds known as artemisinins. These are sesquiterpenoids originally isolated from the herb Artemisia annua. Their structure is based on artemisinin, a tetracyclic compound that contains a 1,2-dioxepane fused to an octahydrobenzopyran moiety. The internal peroxide bridge is believed to be a key to the mode of action of artemisinins. Artesunate is a drug which is used for the treatment of severe malaria caused by *plasmodium falciparum* in adults and children [l891]. Artesunate is considered to be a practically insoluble (in water) and relatively neutral molecule.</cs_description>
+  <description>Artesunate is part of the artemisinin group of drugs that treat malaria. It is a semi-synthetic derivative of artemisinin that is water-soluble and may, therefore, be given by injection. It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system (DrugBank).</description>
+  <synonyms>
+    <synonym>Artesunato</synonym>
+    <synonym>Artesunatum</synonym>
+    <synonym>Artesunic acid</synonym>
+    <synonym>AS</synonym>
+    <synonym>Butanedioic acid, 1-[(3R,5as,6R,8as,9R,10S,12R,12ar)-decahydro-3,6,9-trimethyl-3,12-epoxy-12H-pyrano[4,3-J]-1,2-benzodioxepin-10-yl] ester</synonym>
+    <synonym>Dihydroqinghasu hemsuccinate</synonym>
+    <synonym>Butanedioate, 1-[(3R,5as,6R,8as,9R,10S,12R,12ar)-decahydro-3,6,9-trimethyl-3,12-epoxy-12H-pyrano[4,3-J]-1,2-benzodioxepin-10-yl] ester</synonym>
+    <synonym>Dihydroqinghasu hemsuccinic acid</synonym>
+    <synonym>Malartin</synonym>
+    <synonym>Dihydroartemisinine-12-alpha-succinate</synonym>
+    <synonym>Sodium artesunate</synonym>
+    <synonym>Malacef</synonym>
+    <synonym>Succinyl dihydroartemisinin</synonym>
+  </synonyms>
+  <chemical_formula>C19H28O8</chemical_formula>
+  <average_molecular_weight>384.425</average_molecular_weight>
+  <monisotopic_molecular_weight>384.178417862</monisotopic_molecular_weight>
+  <iupac_name>4-oxo-4-{[(1R,4S,5R,8S,9R,10S,12R,13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.0^{4,13}.0^{8,13}]hexadecan-10-yl]oxy}butanoic acid</iupac_name>
+  <traditional_iupac>4-oxo-4-{[(1R,4S,5R,8S,9R,10S,12R,13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.0^{4,13}.0^{8,13}]hexadecan-10-yl]oxy}butanoic acid</traditional_iupac>
+  <cas_registry_number>88495-63-0</cas_registry_number>
+  <smiles>[H][C@@]12CC[C@@H](C)[C@]3([H])CC[C@@]4(C)OO[C@@]13[C@]([H])(O[C@@H](OC(=O)CCC(O)=O)[C@@H]2C)O4</smiles>
+  <inchi>InChI=1S/C19H28O8/c1-10-4-5-13-11(2)16(23-15(22)7-6-14(20)21)24-17-19(13)12(10)8-9-18(3,25-17)26-27-19/h10-13,16-17H,4-9H2,1-3H3,(H,20,21)/t10-,11-,12+,13+,16-,17-,18-,19-/m1/s1</inchi>
+  <inchikey>FIHJKUPKCHIPAT-AHIGJZGOSA-N</inchikey>
+  <taxonomy>
+    <description>This compound belongs to the class of organic compounds known as artemisinins. These are sesquiterpenoids originally isolated from the herb Artemisia annua. Their structure is based on artemisinin, a tetracyclic compound that contains a 1,2-dioxepane fused to an octahydrobenzopyran moiety. The internal peroxide bridge is believed to be a key to the mode of action of artemisinins.</description>
+    <direct_parent>Artemisinins</direct_parent>
+    <kingdom>Organic compounds</kingdom>
+    <super_class>Lipids and lipid-like molecules</super_class>
+    <class>Prenol lipids</class>
+    <sub_class>Sesquiterpenoids</sub_class>
+    <molecular_framework>Aliphatic heteropolycyclic compounds</molecular_framework>
+    <alternative_parents>
+      <alternative_parent>Acetals</alternative_parent>
+      <alternative_parent>Carbonyl compounds</alternative_parent>
+      <alternative_parent>Carboxylic acid esters</alternative_parent>
+      <alternative_parent>Carboxylic acids</alternative_parent>
+      <alternative_parent>Dialkyl peroxides</alternative_parent>
+      <alternative_parent>Dicarboxylic acids and derivatives</alternative_parent>
+      <alternative_parent>Fatty acid esters</alternative_parent>
+      <alternative_parent>Heterocyclic fatty acids</alternative_parent>
+      <alternative_parent>Hydrocarbon derivatives</alternative_parent>
+      <alternative_parent>Oxacyclic compounds</alternative_parent>
+      <alternative_parent>Oxanes</alternative_parent>
+      <alternative_parent>Oxepanes</alternative_parent>
+      <alternative_parent>Trioxanes</alternative_parent>
+    </alternative_parents>
+    <substituents>
+      <substituent>1,2,4-trioxane</substituent>
+      <substituent>Acetal</substituent>
+      <substituent>Aliphatic heteropolycyclic compound</substituent>
+      <substituent>Artemisinin skeleton</substituent>
+      <substituent>Carbonyl group</substituent>
+      <substituent>Carboxylic acid</substituent>
+      <substituent>Carboxylic acid derivative</substituent>
+      <substituent>Carboxylic acid ester</substituent>
+      <substituent>Dialkyl peroxide</substituent>
+      <substituent>Dicarboxylic acid or derivatives</substituent>
+      <substituent>Fatty acid ester</substituent>
+      <substituent>Fatty acyl</substituent>
+      <substituent>Heterocyclic fatty acid</substituent>
+      <substituent>Hydrocarbon derivative</substituent>
+      <substituent>Organic oxide</substituent>
+      <substituent>Organic oxygen compound</substituent>
+      <substituent>Organoheterocyclic compound</substituent>
+      <substituent>Organooxygen compound</substituent>
+      <substituent>Oxacycle</substituent>
+      <substituent>Oxane</substituent>
+      <substituent>Oxepane</substituent>
+    </substituents>
+    <external_descriptors>
+      <external_descriptor>artemisinin derivative</external_descriptor>
+      <external_descriptor>cyclic acetal</external_descriptor>
+      <external_descriptor>dicarboxylic acid monoester</external_descriptor>
+      <external_descriptor>semisynthetic derivative</external_descriptor>
+      <external_descriptor>sesquiterpenoid</external_descriptor>
+    </external_descriptors>
+  </taxonomy>
+  <ontology>
+    <root>
+      <term>Role</term>
+      <definition>The purpose or function assumed by a chemical, either naturally or as intended by humans .</definition>
+      <parent_id/>
+      <level>1</level>
+      <type>parent</type>
+      <descendants>
+        <descendant>
+          <term>Industrial application</term>
+          <definition>The assumed function of a chemical utilized by human.</definition>
+          <parent_id>7671</parent_id>
+          <level>2</level>
+          <type>parent</type>
+          <synonyms>
+          </synonyms>
+          <descendants>
+            <descendant>
+              <term>Drug</term>
+              <definition>A chemical substance or preparation that causes a physiological effect in the body upon exposure .</definition>
+              <parent_id>7678</parent_id>
+              <level>3</level>
+              <type>child</type>
+              <synonyms>
+              </synonyms>
+            </descendant>
+          </descendants>
+        </descendant>
+      </descendants>
+    </root>
+  </ontology>
+  <state/>
+  <experimental_properties>
+  </experimental_properties>
+  <predicted_properties>
+    <property>
+      <kind>logp</kind>
+      <value>2.35</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logs</kind>
+      <value>-2.75</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logp</kind>
+      <value>3.1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_acidic</kind>
+      <value>3.77</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pka_strongest_basic</kind>
+      <value>-4.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>iupac</kind>
+      <value>4-oxo-4-{[(1R,4S,5R,8S,9R,10S,12R,13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.0^{4,13}.0^{8,13}]hexadecan-10-yl]oxy}butanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>average_mass</kind>
+      <value>384.425</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mono_mass</kind>
+      <value>384.178417862</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>smiles</kind>
+      <value>[H][C@@]12CC[C@@H](C)[C@]3([H])CC[C@@]4(C)OO[C@@]13[C@]([H])(O[C@@H](OC(=O)CCC(O)=O)[C@@H]2C)O4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formula</kind>
+      <value>C19H28O8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchi</kind>
+      <value>InChI=1S/C19H28O8/c1-10-4-5-13-11(2)16(23-15(22)7-6-14(20)21)24-17-19(13)12(10)8-9-18(3,25-17)26-27-19/h10-13,16-17H,4-9H2,1-3H3,(H,20,21)/t10-,11-,12+,13+,16-,17-,18-,19-/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>inchikey</kind>
+      <value>FIHJKUPKCHIPAT-AHIGJZGOSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polar_surface_area</kind>
+      <value>100.52</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>refractivity</kind>
+      <value>89.95</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>polarizability</kind>
+      <value>39.48</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rotatable_bond_count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>acceptor_count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>donor_count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>physiological_charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>formal_charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>number_of_rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>rule_of_five</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>ghose_filter</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>veber_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>mddr_like_rule</kind>
+      <value>Yes</value>
+      <source>ChemAxon</source>
+    </property>
+  </predicted_properties>
+  <spectra>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>247941</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>247942</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>247943</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>267882</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>267883</spectrum_id>
+    </spectrum>
+    <spectrum>
+      <type>Specdb::MsMs</type>
+      <spectrum_id>267884</spectrum_id>
+    </spectrum>
+  </spectra>
+  <cellular_locations>
+  </cellular_locations>
+  <biospecimen_locations>
+  </biospecimen_locations>
+  <tissue_locations>
+  </tissue_locations>
+  <pathways>
+  </pathways>
+  <normal_concentrations>
+  </normal_concentrations>
+  <abnormal_concentrations>
+  </abnormal_concentrations>
+  <diseases>
+  </diseases>
+  <drugbank_id/>
+  <drugbank_metabolite_id/>
+  <phenol_explorer_compound_id/>
+  <phenol_explorer_metabolite_id/>
+  <foodb_id/>
+  <knapsack_id/>
+  <chemspider_id/>
+  <kegg_id/>
+  <biocyc_id/>
+  <bigg_id/>
+  <wikipidia/>
+  <nugowiki>244662</nugowiki>
+  <metagene/>
+  <metlin_id/>
+  <pubchem_compound_id/>
+  <het_id/>
+  <chebi_id/>
+  <synthesis_reference/>
+  <general_references>
+  </general_references>
+  <protein_associations>
+  </protein_associations>
+</metabolite>
+</hmdb>

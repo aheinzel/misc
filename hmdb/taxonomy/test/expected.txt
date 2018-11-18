@@ -1,0 +1,6 @@
+accession	name	kingdom	super_class	class	sub_class
+HMDB0000068	Epinephrine	Organic compounds	Benzenoids	Phenols	Benzenediols
+HMDB0000403	2-Hydroxyadenine	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+HMDB0006045	Dityrosine	Organic compounds	Lignans, neolignans and related compounds		
+HMDB0240288	Tromethamine	Chemical entities	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds
+HMDB0240267	Artesunate	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
