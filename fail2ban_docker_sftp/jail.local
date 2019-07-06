@@ -1,0 +1,8 @@
+[docker-sftp]
+enabled = true
+filter = docker-sftp
+banaction = docker-sftp
+maxretry = 5
+findtime = 120
+bantime = 300
+logpath = /var/log/messages
